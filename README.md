@@ -8,17 +8,25 @@ An end-to-end, production-grade reseller growth intelligence and alerting pipeli
 
 This system operationalizes a robust, multi-stage data-to-decision pipeline:
 
-1. **Part 1 (SQL Business Query Engine) → Part 2 (Growth Engine)**:
-   - *Pattern: "Compute Ground Truth First, Then Hand Off"*.
-   - All financial aggregates, order metrics, and business dimensions are computed directly against the SQLite persistence layer (`meesho_reseller.db`) using pure SQL. Downstream logic consumes validated numeric outputs rather than raw transactional data.
+### Part 1: SQL Business Query Engine
+- *Pattern: "Compute Ground Truth First, Then Hand Off"*.
+- All financial aggregates, order metrics, and business dimensions are computed directly against the SQLite persistence layer (`meesho_reseller.db`) using pure SQL.
+- Downstream logic consumes validated numeric outputs rather than raw transactional data.
 
-2. **Part 2 (Input Guardrails & Growth Engine) → Part 3 (Narrative Reporting)**:
-   - *Pattern: "Deterministic Validation & Structured Prompt Packs"*.
-   - Numerical changes are converted into explicit rules (MoM %, tri-state threshold classification, exact boundary escalation). Raw inputs pass strict type and schema checks before being ingested by templated Context → Insight → Implication reports with zero hallucinated figures.
+### Part 2: Input Guardrails & Growth Engine
+- *Pattern: "Deterministic Validation & Structured Rule Evaluation"*.
+- Numerical changes are converted into explicit rules such as MoM %, tri-state threshold classification, and exact boundary escalation.
+- Raw inputs pass strict type and schema checks before they are ingested by the decision engine.
 
-3. **Part 4 (Agentic Workflow & Mock Runner)**:
-   - *Pattern: "Intake → Validate → Compute → Rank → Draft & Hold"*.
-   - Orchestrates Parts 1, 2, and 3 into an automated, guarded workflow. Incorporates an anti-flooding notification cap (top 3 alerts), isolates suppressed/escalated categories, and enforces an explicit human-in-the-loop review gate prior to dispatch.
+### Part 3: Narrative Reporting
+- *Pattern: "Structured Prompt Packs & Privacy-Safe Reporting"*.
+- Verified outputs are transformed into templated Context → Insight → Implication narratives with zero hallucinated figures.
+- Reseller-sensitive information is masked so stakeholder-facing updates remain privacy-safe and auditable.
+
+### Part 4: Agentic Workflow & Mock Runner
+- *Pattern: "Intake → Validate → Compute → Rank → Draft & Hold"*.
+- Orchestrates Parts 1, 2, and 3 into an automated, guarded workflow.
+- Incorporates an anti-flooding notification cap (top 3 alerts), isolates suppressed or escalated categories, and enforces a human-in-the-loop review gate before dispatch.
 
 ---
 
