@@ -1,0 +1,25 @@
+reseller_id,reseller_name,city,region,join_date
+RS001,Delhi Reseller 1,Delhi,North,2026-03-04
+RS002,Jaipur Reseller 2,Jaipur,North,2026-01-24
+RS003,Lucknow Reseller 3,Lucknow,North,2026-02-08
+RS004,Delhi Reseller 4,Delhi,North,2026-01-05
+RS005,Jaipur Reseller 5,Jaipur,North,2026-03-04
+RS006,Lucknow Reseller 6,Lucknow,North,2026-03-24
+RS007,Bengaluru Reseller 1,Bengaluru,South,2026-03-03
+RS008,Chennai Reseller 2,Chennai,South,2026-03-14
+RS009,Hyderabad Reseller 3,Hyderabad,South,2026-01-01
+RS010,Bengaluru Reseller 4,Bengaluru,South,2026-01-07
+RS011,Chennai Reseller 5,Chennai,South,2026-01-17
+RS012,Hyderabad Reseller 6,Hyderabad,South,2026-03-01
+RS013,Kolkata Reseller 1,Kolkata,East,2026-03-07
+RS014,Patna Reseller 2,Patna,East,2026-03-21
+RS015,Bhubaneswar Reseller 3,Bhubaneswar,East,2026-03-18
+RS016,Kolkata Reseller 4,Kolkata,East,2026-02-08
+RS017,Patna Reseller 5,Patna,East,2026-02-19
+RS018,Bhubaneswar Reseller 6,Bhubaneswar,East,2026-02-26
+RS019,Mumbai Reseller 1,Mumbai,West,2026-01-25
+RS020,Pune Reseller 2,Pune,West,2026-01-23
+RS021,Ahmedabad Reseller 3,Ahmedabad,West,2026-02-11
+RS022,Mumbai Reseller 4,Mumbai,West,2026-02-05
+RS023,Pune Reseller 5,Pune,West,2026-01-25
+RS024,Ahmedabad Reseller 6,Ahmedabad,West,2026-02-04

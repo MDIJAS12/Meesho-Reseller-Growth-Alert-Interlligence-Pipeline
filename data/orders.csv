@@ -1,0 +1,901 @@
+order_id,reseller_id,category,product_name,quantity,unit_price,order_date,month,status
+ORD00001,RS003,Western Wear,Western Wear Item 748,1,690.03,2026-04-09,April,Returned
+ORD00002,RS015,Kids Wear,Kids Wear Item 644,1,881.53,2026-04-18,April,Delivered
+ORD00003,RS020,Beauty & Personal Care,Beauty & Personal Care Item 234,1,384.06,2026-04-03,April,Delivered
+ORD00004,RS010,Beauty & Personal Care,Beauty & Personal Care Item 651,3,704.96,2026-04-13,April,Delivered
+ORD00005,RS012,Ethnic Wear,Ethnic Wear Item 664,2,789.8,2026-04-23,April,Cancelled
+ORD00006,RS003,Kids Wear,Kids Wear Item 277,2,360.24,2026-04-06,April,Delivered
+ORD00007,RS021,Home & Kitchen,Home & Kitchen Item 235,1,594.31,2026-04-25,April,Returned
+ORD00008,RS002,Home & Kitchen,Home & Kitchen Item 898,1,921.1,2026-04-30,April,Cancelled
+ORD00009,RS023,Western Wear,Western Wear Item 147,1,971.67,2026-04-30,April,Delivered
+ORD00010,RS009,Ethnic Wear,Ethnic Wear Item 920,1,1218.49,2026-04-24,April,Delivered
+ORD00011,RS019,Western Wear,Western Wear Item 774,4,557.35,2026-04-17,April,Delivered
+ORD00012,RS002,Beauty & Personal Care,Beauty & Personal Care Item 66,1,248.35,2026-04-22,April,Delivered
+ORD00013,RS013,Western Wear,Western Wear Item 12,1,1295.32,2026-04-18,April,Cancelled
+ORD00014,RS022,Home & Kitchen,Home & Kitchen Item 349,1,1426.08,2026-04-09,April,Returned
+ORD00015,RS004,Western Wear,Western Wear Item 270,1,499.25,2026-04-24,April,Cancelled
+ORD00016,RS017,Home & Kitchen,Home & Kitchen Item 655,1,1112.83,2026-04-21,April,Delivered
+ORD00017,RS017,Kids Wear,Kids Wear Item 945,2,348.35,2026-04-18,April,Pending
+ORD00018,RS017,Beauty & Personal Care,Beauty & Personal Care Item 900,1,538.31,2026-04-04,April,Cancelled
+ORD00019,RS010,Western Wear,Western Wear Item 498,2,577.83,2026-04-03,April,Delivered
+ORD00020,RS003,Beauty & Personal Care,Beauty & Personal Care Item 563,1,495.26,2026-04-22,April,Delivered
+ORD00021,RS006,Western Wear,Western Wear Item 774,1,1177.81,2026-04-07,April,Cancelled
+ORD00022,RS023,Western Wear,Western Wear Item 922,4,645.13,2026-04-21,April,Delivered
+ORD00023,RS017,Kids Wear,Kids Wear Item 236,1,410.14,2026-04-01,April,Delivered
+ORD00024,RS019,Western Wear,Western Wear Item 33,2,416.44,2026-04-08,April,Delivered
+ORD00025,RS011,Ethnic Wear,Ethnic Wear Item 741,2,660.81,2026-04-07,April,Delivered
+ORD00026,RS019,Kids Wear,Kids Wear Item 100,1,406.95,2026-04-14,April,Delivered
+ORD00027,RS022,Western Wear,Western Wear Item 670,1,751.4,2026-04-24,April,Delivered
+ORD00028,RS021,Ethnic Wear,Ethnic Wear Item 197,1,841.88,2026-04-28,April,Delivered
+ORD00029,RS007,Kids Wear,Kids Wear Item 946,1,340.12,2026-04-15,April,Delivered
+ORD00030,RS003,Kids Wear,Kids Wear Item 554,2,808.88,2026-04-02,April,Delivered
+ORD00031,RS001,Beauty & Personal Care,Beauty & Personal Care Item 493,3,751.14,2026-04-06,April,Delivered
+ORD00032,RS007,Beauty & Personal Care,Beauty & Personal Care Item 272,1,735.59,2026-04-01,April,Pending
+ORD00033,RS015,Western Wear,Western Wear Item 736,2,1010.76,2026-04-26,April,Delivered
+ORD00034,RS016,Ethnic Wear,Ethnic Wear Item 63,4,725.38,2026-04-19,April,Returned
+ORD00035,RS011,Ethnic Wear,Ethnic Wear Item 59,1,1041.6,2026-04-28,April,Delivered
+ORD00036,RS017,Ethnic Wear,Ethnic Wear Item 414,2,603.41,2026-04-22,April,Cancelled
+ORD00037,RS004,Beauty & Personal Care,Beauty & Personal Care Item 430,2,519.29,2026-04-02,April,Delivered
+ORD00038,RS022,Kids Wear,Kids Wear Item 322,4,588.81,2026-04-07,April,Delivered
+ORD00039,RS008,Western Wear,Western Wear Item 770,2,473.33,2026-04-15,April,Delivered
+ORD00040,RS003,Ethnic Wear,Ethnic Wear Item 219,2,1082.28,2026-04-04,April,Delivered
+ORD00041,RS017,Western Wear,Western Wear Item 292,3,1235.6,2026-04-29,April,Delivered
+ORD00042,RS006,Western Wear,Western Wear Item 9,1,865.06,2026-04-26,April,Delivered
+ORD00043,RS022,Home & Kitchen,Home & Kitchen Item 119,2,737.88,2026-04-29,April,Delivered
+ORD00044,RS004,Home & Kitchen,Home & Kitchen Item 209,1,478.81,2026-04-07,April,Returned
+ORD00045,RS022,Kids Wear,Kids Wear Item 53,1,420.59,2026-04-29,April,Cancelled
+ORD00046,RS003,Kids Wear,Kids Wear Item 653,1,788.08,2026-04-11,April,Returned
+ORD00047,RS009,Ethnic Wear,Ethnic Wear Item 78,2,885.02,2026-04-18,April,Delivered
+ORD00048,RS023,Beauty & Personal Care,Beauty & Personal Care Item 441,3,503.63,2026-04-19,April,Delivered
+ORD00049,RS005,Ethnic Wear,Ethnic Wear Item 367,4,800.12,2026-04-28,April,Delivered
+ORD00050,RS007,Home & Kitchen,Home & Kitchen Item 417,1,1399.48,2026-04-18,April,Cancelled
+ORD00051,RS020,Home & Kitchen,Home & Kitchen Item 831,1,1865.37,2026-04-06,April,Pending
+ORD00052,RS006,Beauty & Personal Care,Beauty & Personal Care Item 422,2,165.11,2026-04-11,April,Returned
+ORD00053,RS022,Beauty & Personal Care,Beauty & Personal Care Item 392,1,675.99,2026-04-26,April,Returned
+ORD00054,RS002,Beauty & Personal Care,Beauty & Personal Care Item 841,3,293.58,2026-04-15,April,Delivered
+ORD00055,RS008,Western Wear,Western Wear Item 991,1,976.03,2026-04-09,April,Cancelled
+ORD00056,RS009,Western Wear,Western Wear Item 962,2,832.94,2026-04-27,April,Delivered
+ORD00057,RS001,Ethnic Wear,Ethnic Wear Item 611,1,1466.44,2026-04-09,April,Delivered
+ORD00058,RS014,Western Wear,Western Wear Item 922,1,1096.11,2026-04-17,April,Delivered
+ORD00059,RS019,Ethnic Wear,Ethnic Wear Item 552,1,447.83,2026-04-17,April,Cancelled
+ORD00060,RS022,Home & Kitchen,Home & Kitchen Item 972,2,1534.51,2026-04-12,April,Delivered
+ORD00061,RS022,Beauty & Personal Care,Beauty & Personal Care Item 308,2,554.05,2026-04-04,April,Returned
+ORD00062,RS017,Western Wear,Western Wear Item 197,1,736.97,2026-04-10,April,Delivered
+ORD00063,RS014,Home & Kitchen,Home & Kitchen Item 309,2,881.46,2026-04-06,April,Delivered
+ORD00064,RS013,Kids Wear,Kids Wear Item 622,1,249.26,2026-04-14,April,Returned
+ORD00065,RS021,Western Wear,Western Wear Item 923,2,768.7,2026-04-17,April,Delivered
+ORD00066,RS006,Home & Kitchen,Home & Kitchen Item 839,2,709.82,2026-04-20,April,Delivered
+ORD00067,RS008,Home & Kitchen,Home & Kitchen Item 487,1,603.35,2026-04-01,April,Delivered
+ORD00068,RS020,Beauty & Personal Care,Beauty & Personal Care Item 736,1,196.34,2026-04-21,April,Delivered
+ORD00069,RS023,Western Wear,Western Wear Item 769,1,728.67,2026-04-23,April,Delivered
+ORD00070,RS004,Home & Kitchen,Home & Kitchen Item 52,3,592.91,2026-04-23,April,Delivered
+ORD00071,RS018,Western Wear,Western Wear Item 544,1,1154.92,2026-04-26,April,Delivered
+ORD00072,RS018,Kids Wear,Kids Wear Item 914,3,866.53,2026-04-20,April,Returned
+ORD00073,RS017,Western Wear,Western Wear Item 487,1,1210.51,2026-04-06,April,Returned
+ORD00074,RS015,Western Wear,Western Wear Item 497,2,583.88,2026-04-25,April,Returned
+ORD00075,RS021,Western Wear,Western Wear Item 328,2,766.88,2026-04-08,April,Delivered
+ORD00076,RS018,Ethnic Wear,Ethnic Wear Item 66,1,564.91,2026-04-05,April,Returned
+ORD00077,RS014,Western Wear,Western Wear Item 399,1,864.48,2026-04-07,April,Returned
+ORD00078,RS019,Beauty & Personal Care,Beauty & Personal Care Item 7,3,161.7,2026-04-19,April,Delivered
+ORD00079,RS012,Western Wear,Western Wear Item 766,3,719.49,2026-04-27,April,Delivered
+ORD00080,RS018,Home & Kitchen,Home & Kitchen Item 30,1,1815.06,2026-04-09,April,Delivered
+ORD00081,RS013,Western Wear,Western Wear Item 942,1,994.18,2026-04-06,April,Returned
+ORD00082,RS005,Beauty & Personal Care,Beauty & Personal Care Item 28,3,496.18,2026-04-19,April,Delivered
+ORD00083,RS003,Home & Kitchen,Home & Kitchen Item 336,1,443.26,2026-04-02,April,Delivered
+ORD00084,RS007,Kids Wear,Kids Wear Item 852,3,468.38,2026-04-09,April,Returned
+ORD00085,RS014,Western Wear,Western Wear Item 975,1,426.81,2026-04-18,April,Delivered
+ORD00086,RS012,Western Wear,Western Wear Item 973,4,414.19,2026-04-02,April,Returned
+ORD00087,RS008,Ethnic Wear,Ethnic Wear Item 118,1,421.42,2026-04-05,April,Delivered
+ORD00088,RS019,Beauty & Personal Care,Beauty & Personal Care Item 622,1,451.27,2026-04-12,April,Delivered
+ORD00089,RS023,Ethnic Wear,Ethnic Wear Item 952,4,1300.23,2026-04-04,April,Delivered
+ORD00090,RS010,Kids Wear,Kids Wear Item 607,1,839.22,2026-04-23,April,Delivered
+ORD00091,RS023,Home & Kitchen,Home & Kitchen Item 615,2,636.13,2026-04-10,April,Cancelled
+ORD00092,RS004,Home & Kitchen,Home & Kitchen Item 380,1,1217.68,2026-04-18,April,Delivered
+ORD00093,RS003,Kids Wear,Kids Wear Item 444,3,470.8,2026-04-27,April,Delivered
+ORD00094,RS012,Kids Wear,Kids Wear Item 535,2,787.66,2026-04-14,April,Delivered
+ORD00095,RS021,Western Wear,Western Wear Item 846,1,1116.79,2026-04-16,April,Delivered
+ORD00096,RS019,Western Wear,Western Wear Item 462,3,1158.13,2026-04-03,April,Delivered
+ORD00097,RS008,Home & Kitchen,Home & Kitchen Item 872,2,1224.73,2026-04-11,April,Delivered
+ORD00098,RS011,Ethnic Wear,Ethnic Wear Item 611,2,632.33,2026-04-11,April,Delivered
+ORD00099,RS023,Beauty & Personal Care,Beauty & Personal Care Item 738,1,510.26,2026-04-07,April,Delivered
+ORD00100,RS014,Kids Wear,Kids Wear Item 459,2,741.81,2026-04-21,April,Returned
+ORD00101,RS001,Ethnic Wear,Ethnic Wear Item 378,2,642.76,2026-04-10,April,Delivered
+ORD00102,RS016,Kids Wear,Kids Wear Item 720,4,472.44,2026-04-18,April,Delivered
+ORD00103,RS015,Western Wear,Western Wear Item 761,1,587.83,2026-04-07,April,Delivered
+ORD00104,RS018,Beauty & Personal Care,Beauty & Personal Care Item 742,1,597.61,2026-04-24,April,Delivered
+ORD00105,RS019,Beauty & Personal Care,Beauty & Personal Care Item 304,1,490.01,2026-04-04,April,Returned
+ORD00106,RS008,Western Wear,Western Wear Item 998,2,636.15,2026-04-05,April,Delivered
+ORD00107,RS002,Kids Wear,Kids Wear Item 106,1,702.32,2026-04-28,April,Returned
+ORD00108,RS001,Kids Wear,Kids Wear Item 259,1,554.11,2026-04-06,April,Pending
+ORD00109,RS016,Ethnic Wear,Ethnic Wear Item 55,1,470.88,2026-04-19,April,Delivered
+ORD00110,RS005,Ethnic Wear,Ethnic Wear Item 783,1,1018.12,2026-04-08,April,Delivered
+ORD00111,RS014,Kids Wear,Kids Wear Item 931,1,762.98,2026-04-17,April,Delivered
+ORD00112,RS015,Western Wear,Western Wear Item 625,1,908.1,2026-04-19,April,Delivered
+ORD00113,RS004,Beauty & Personal Care,Beauty & Personal Care Item 246,1,284.06,2026-04-22,April,Delivered
+ORD00114,RS006,Kids Wear,Kids Wear Item 299,1,350.75,2026-04-23,April,Delivered
+ORD00115,RS002,Western Wear,Western Wear Item 240,2,1020.61,2026-04-15,April,Delivered
+ORD00116,RS009,Home & Kitchen,Home & Kitchen Item 118,2,1324.1,2026-04-30,April,Delivered
+ORD00117,RS018,Western Wear,Western Wear Item 170,1,490.54,2026-04-05,April,Delivered
+ORD00118,RS010,Kids Wear,Kids Wear Item 706,3,784.76,2026-04-15,April,Delivered
+ORD00119,RS010,Home & Kitchen,Home & Kitchen Item 613,1,1895.82,2026-04-16,April,Delivered
+ORD00120,RS002,Beauty & Personal Care,Beauty & Personal Care Item 985,2,626.45,2026-04-01,April,Delivered
+ORD00121,RS022,Home & Kitchen,Home & Kitchen Item 276,4,1234.36,2026-04-25,April,Delivered
+ORD00122,RS019,Ethnic Wear,Ethnic Wear Item 285,1,1230.9,2026-04-21,April,Delivered
+ORD00123,RS006,Beauty & Personal Care,Beauty & Personal Care Item 419,3,432.33,2026-04-03,April,Delivered
+ORD00124,RS011,Western Wear,Western Wear Item 296,1,448.37,2026-04-14,April,Delivered
+ORD00125,RS022,Beauty & Personal Care,Beauty & Personal Care Item 259,2,677.82,2026-04-15,April,Delivered
+ORD00126,RS011,Ethnic Wear,Ethnic Wear Item 674,3,1248.8,2026-04-27,April,Pending
+ORD00127,RS018,Kids Wear,Kids Wear Item 641,1,284.23,2026-04-20,April,Returned
+ORD00128,RS015,Home & Kitchen,Home & Kitchen Item 902,1,565.4,2026-04-30,April,Delivered
+ORD00129,RS023,Kids Wear,Kids Wear Item 163,2,267.77,2026-04-26,April,Delivered
+ORD00130,RS010,Kids Wear,Kids Wear Item 473,1,607.96,2026-04-27,April,Cancelled
+ORD00131,RS004,Home & Kitchen,Home & Kitchen Item 280,4,476.15,2026-04-10,April,Delivered
+ORD00132,RS014,Home & Kitchen,Home & Kitchen Item 196,1,1963.44,2026-04-18,April,Delivered
+ORD00133,RS020,Kids Wear,Kids Wear Item 875,3,820.56,2026-04-09,April,Returned
+ORD00134,RS014,Western Wear,Western Wear Item 306,1,1097.33,2026-04-01,April,Delivered
+ORD00135,RS019,Kids Wear,Kids Wear Item 354,3,677.96,2026-04-15,April,Delivered
+ORD00136,RS011,Kids Wear,Kids Wear Item 715,1,602.23,2026-04-11,April,Cancelled
+ORD00137,RS008,Kids Wear,Kids Wear Item 485,2,400.82,2026-04-02,April,Delivered
+ORD00138,RS023,Beauty & Personal Care,Beauty & Personal Care Item 156,4,396.8,2026-04-26,April,Returned
+ORD00139,RS016,Beauty & Personal Care,Beauty & Personal Care Item 896,4,231.06,2026-04-11,April,Cancelled
+ORD00140,RS015,Ethnic Wear,Ethnic Wear Item 671,1,1400.49,2026-04-05,April,Delivered
+ORD00141,RS005,Ethnic Wear,Ethnic Wear Item 666,1,1258.68,2026-04-20,April,Delivered
+ORD00142,RS003,Beauty & Personal Care,Beauty & Personal Care Item 642,3,703.02,2026-04-13,April,Pending
+ORD00143,RS023,Beauty & Personal Care,Beauty & Personal Care Item 647,1,466.17,2026-04-20,April,Delivered
+ORD00144,RS022,Beauty & Personal Care,Beauty & Personal Care Item 779,2,797.33,2026-04-14,April,Pending
+ORD00145,RS021,Home & Kitchen,Home & Kitchen Item 48,1,379.91,2026-04-10,April,Cancelled
+ORD00146,RS011,Home & Kitchen,Home & Kitchen Item 422,1,727.06,2026-04-05,April,Delivered
+ORD00147,RS019,Home & Kitchen,Home & Kitchen Item 635,1,523.1,2026-04-20,April,Cancelled
+ORD00148,RS022,Western Wear,Western Wear Item 471,1,1216.19,2026-04-15,April,Delivered
+ORD00149,RS009,Home & Kitchen,Home & Kitchen Item 162,1,1817.04,2026-04-10,April,Delivered
+ORD00150,RS003,Kids Wear,Kids Wear Item 707,2,473.62,2026-04-21,April,Pending
+ORD00151,RS009,Kids Wear,Kids Wear Item 243,4,445.38,2026-04-28,April,Delivered
+ORD00152,RS013,Kids Wear,Kids Wear Item 850,4,622.63,2026-04-10,April,Delivered
+ORD00153,RS022,Western Wear,Western Wear Item 51,3,356.69,2026-04-25,April,Returned
+ORD00154,RS020,Home & Kitchen,Home & Kitchen Item 622,3,1698.11,2026-04-25,April,Returned
+ORD00155,RS012,Western Wear,Western Wear Item 676,1,529.63,2026-04-25,April,Returned
+ORD00156,RS022,Home & Kitchen,Home & Kitchen Item 808,3,1329.85,2026-04-21,April,Delivered
+ORD00157,RS015,Ethnic Wear,Ethnic Wear Item 766,1,800.35,2026-04-30,April,Delivered
+ORD00158,RS014,Ethnic Wear,Ethnic Wear Item 936,1,544.38,2026-04-12,April,Delivered
+ORD00159,RS009,Home & Kitchen,Home & Kitchen Item 303,3,661.55,2026-04-16,April,Pending
+ORD00160,RS011,Home & Kitchen,Home & Kitchen Item 881,1,1042.0,2026-04-25,April,Pending
+ORD00161,RS022,Home & Kitchen,Home & Kitchen Item 93,4,1962.9,2026-04-26,April,Delivered
+ORD00162,RS013,Ethnic Wear,Ethnic Wear Item 269,1,989.23,2026-04-22,April,Returned
+ORD00163,RS019,Western Wear,Western Wear Item 26,1,955.62,2026-04-22,April,Delivered
+ORD00164,RS020,Beauty & Personal Care,Beauty & Personal Care Item 651,3,513.91,2026-04-08,April,Delivered
+ORD00165,RS015,Beauty & Personal Care,Beauty & Personal Care Item 39,1,345.42,2026-04-05,April,Delivered
+ORD00166,RS010,Beauty & Personal Care,Beauty & Personal Care Item 465,1,224.48,2026-04-18,April,Delivered
+ORD00167,RS012,Home & Kitchen,Home & Kitchen Item 745,4,1536.65,2026-04-14,April,Delivered
+ORD00168,RS005,Beauty & Personal Care,Beauty & Personal Care Item 975,3,574.7,2026-04-20,April,Delivered
+ORD00169,RS009,Ethnic Wear,Ethnic Wear Item 102,1,806.58,2026-04-08,April,Cancelled
+ORD00170,RS022,Western Wear,Western Wear Item 195,2,1205.61,2026-04-02,April,Delivered
+ORD00171,RS004,Beauty & Personal Care,Beauty & Personal Care Item 612,1,684.72,2026-04-07,April,Delivered
+ORD00172,RS001,Ethnic Wear,Ethnic Wear Item 71,4,765.86,2026-04-26,April,Delivered
+ORD00173,RS018,Western Wear,Western Wear Item 808,3,554.15,2026-04-11,April,Returned
+ORD00174,RS020,Ethnic Wear,Ethnic Wear Item 818,1,1343.25,2026-04-05,April,Delivered
+ORD00175,RS006,Ethnic Wear,Ethnic Wear Item 244,1,1352.09,2026-04-12,April,Returned
+ORD00176,RS019,Western Wear,Western Wear Item 117,1,514.53,2026-04-24,April,Delivered
+ORD00177,RS003,Kids Wear,Kids Wear Item 227,1,754.71,2026-04-04,April,Delivered
+ORD00178,RS020,Ethnic Wear,Ethnic Wear Item 659,3,1260.55,2026-04-17,April,Delivered
+ORD00179,RS001,Ethnic Wear,Ethnic Wear Item 730,1,925.88,2026-04-22,April,Delivered
+ORD00180,RS015,Ethnic Wear,Ethnic Wear Item 640,2,487.87,2026-04-03,April,Delivered
+ORD00181,RS021,Kids Wear,Kids Wear Item 465,1,711.9,2026-04-20,April,Delivered
+ORD00182,RS017,Kids Wear,Kids Wear Item 899,2,313.47,2026-04-28,April,Delivered
+ORD00183,RS018,Home & Kitchen,Home & Kitchen Item 848,1,586.04,2026-04-08,April,Delivered
+ORD00184,RS015,Western Wear,Western Wear Item 384,1,1042.13,2026-04-11,April,Delivered
+ORD00185,RS005,Home & Kitchen,Home & Kitchen Item 99,1,1052.68,2026-04-03,April,Delivered
+ORD00186,RS012,Home & Kitchen,Home & Kitchen Item 687,2,1200.47,2026-04-18,April,Delivered
+ORD00187,RS004,Western Wear,Western Wear Item 739,4,1178.93,2026-04-14,April,Cancelled
+ORD00188,RS002,Beauty & Personal Care,Beauty & Personal Care Item 159,1,539.27,2026-04-19,April,Delivered
+ORD00189,RS022,Kids Wear,Kids Wear Item 781,1,799.73,2026-04-18,April,Delivered
+ORD00190,RS009,Kids Wear,Kids Wear Item 629,3,773.69,2026-04-25,April,Returned
+ORD00191,RS022,Home & Kitchen,Home & Kitchen Item 30,3,246.26,2026-04-27,April,Delivered
+ORD00192,RS006,Western Wear,Western Wear Item 891,3,1073.29,2026-04-12,April,Delivered
+ORD00193,RS005,Kids Wear,Kids Wear Item 94,1,509.51,2026-04-21,April,Pending
+ORD00194,RS017,Western Wear,Western Wear Item 333,1,747.84,2026-04-12,April,Delivered
+ORD00195,RS019,Kids Wear,Kids Wear Item 691,1,823.17,2026-04-25,April,Delivered
+ORD00196,RS003,Western Wear,Western Wear Item 221,1,977.84,2026-04-15,April,Delivered
+ORD00197,RS017,Ethnic Wear,Ethnic Wear Item 540,1,871.9,2026-04-22,April,Delivered
+ORD00198,RS022,Western Wear,Western Wear Item 309,4,558.49,2026-04-02,April,Delivered
+ORD00199,RS007,Home & Kitchen,Home & Kitchen Item 765,1,1574.49,2026-04-04,April,Delivered
+ORD00200,RS014,Ethnic Wear,Ethnic Wear Item 685,2,817.23,2026-04-17,April,Delivered
+ORD00201,RS012,Ethnic Wear,Ethnic Wear Item 80,1,1346.94,2026-04-01,April,Delivered
+ORD00202,RS011,Kids Wear,Kids Wear Item 415,2,621.71,2026-04-14,April,Delivered
+ORD00203,RS001,Beauty & Personal Care,Beauty & Personal Care Item 942,4,260.72,2026-04-15,April,Returned
+ORD00204,RS012,Ethnic Wear,Ethnic Wear Item 81,1,1327.93,2026-04-19,April,Delivered
+ORD00205,RS013,Beauty & Personal Care,Beauty & Personal Care Item 523,1,633.77,2026-04-25,April,Delivered
+ORD00206,RS021,Ethnic Wear,Ethnic Wear Item 982,3,959.95,2026-04-12,April,Delivered
+ORD00207,RS021,Home & Kitchen,Home & Kitchen Item 157,1,624.28,2026-04-07,April,Delivered
+ORD00208,RS021,Ethnic Wear,Ethnic Wear Item 779,2,1445.42,2026-04-15,April,Returned
+ORD00209,RS019,Kids Wear,Kids Wear Item 331,2,849.7,2026-04-21,April,Pending
+ORD00210,RS021,Western Wear,Western Wear Item 282,1,766.77,2026-04-21,April,Delivered
+ORD00211,RS019,Ethnic Wear,Ethnic Wear Item 378,1,957.07,2026-04-15,April,Delivered
+ORD00212,RS010,Ethnic Wear,Ethnic Wear Item 394,3,1349.68,2026-04-20,April,Delivered
+ORD00213,RS015,Kids Wear,Kids Wear Item 830,2,869.25,2026-04-02,April,Delivered
+ORD00214,RS019,Home & Kitchen,Home & Kitchen Item 462,1,777.75,2026-04-05,April,Pending
+ORD00215,RS004,Home & Kitchen,Home & Kitchen Item 177,4,1706.28,2026-04-03,April,Delivered
+ORD00216,RS002,Western Wear,Western Wear Item 373,1,764.87,2026-04-17,April,Delivered
+ORD00217,RS012,Beauty & Personal Care,Beauty & Personal Care Item 809,2,400.82,2026-04-22,April,Delivered
+ORD00218,RS021,Home & Kitchen,Home & Kitchen Item 259,1,317.64,2026-04-22,April,Delivered
+ORD00219,RS022,Beauty & Personal Care,Beauty & Personal Care Item 145,1,540.76,2026-04-03,April,Delivered
+ORD00220,RS012,Western Wear,Western Wear Item 961,2,972.25,2026-04-05,April,Delivered
+ORD00221,RS003,Western Wear,Western Wear Item 720,2,706.85,2026-04-27,April,Delivered
+ORD00222,RS022,Beauty & Personal Care,Beauty & Personal Care Item 372,2,209.74,2026-04-17,April,Delivered
+ORD00223,RS010,Ethnic Wear,Ethnic Wear Item 141,4,634.61,2026-04-16,April,Delivered
+ORD00224,RS005,Ethnic Wear,Ethnic Wear Item 757,1,1327.87,2026-04-25,April,Delivered
+ORD00225,RS017,Ethnic Wear,Ethnic Wear Item 158,2,769.44,2026-04-05,April,Delivered
+ORD00226,RS006,Ethnic Wear,Ethnic Wear Item 449,2,1161.13,2026-04-29,April,Delivered
+ORD00227,RS002,Western Wear,Western Wear Item 771,1,991.54,2026-04-15,April,Delivered
+ORD00228,RS015,Western Wear,Western Wear Item 856,4,576.21,2026-04-26,April,Delivered
+ORD00229,RS007,Western Wear,Western Wear Item 797,4,1248.77,2026-04-15,April,Returned
+ORD00230,RS013,Kids Wear,Kids Wear Item 142,1,521.13,2026-04-07,April,Returned
+ORD00231,RS009,Ethnic Wear,Ethnic Wear Item 867,1,927.65,2026-04-30,April,Delivered
+ORD00232,RS017,Beauty & Personal Care,Beauty & Personal Care Item 526,2,334.29,2026-04-09,April,Delivered
+ORD00233,RS005,Home & Kitchen,Home & Kitchen Item 358,3,364.08,2026-04-27,April,Delivered
+ORD00234,RS001,Western Wear,Western Wear Item 384,1,725.63,2026-04-13,April,Pending
+ORD00235,RS008,Ethnic Wear,Ethnic Wear Item 150,3,1422.91,2026-04-21,April,Delivered
+ORD00236,RS005,Ethnic Wear,Ethnic Wear Item 723,1,1408.14,2026-04-27,April,Delivered
+ORD00237,RS016,Kids Wear,Kids Wear Item 154,1,252.41,2026-04-09,April,Delivered
+ORD00238,RS018,Beauty & Personal Care,Beauty & Personal Care Item 309,1,544.77,2026-04-25,April,Delivered
+ORD00239,RS004,Ethnic Wear,Ethnic Wear Item 857,2,860.81,2026-04-15,April,Delivered
+ORD00240,RS016,Kids Wear,Kids Wear Item 299,1,259.68,2026-04-08,April,Returned
+ORD00241,RS014,Ethnic Wear,Ethnic Wear Item 88,2,787.1,2026-04-06,April,Delivered
+ORD00242,RS017,Beauty & Personal Care,Beauty & Personal Care Item 520,1,192.99,2026-04-17,April,Returned
+ORD00243,RS018,Ethnic Wear,Ethnic Wear Item 260,1,1359.66,2026-04-13,April,Pending
+ORD00244,RS001,Western Wear,Western Wear Item 791,1,413.18,2026-04-22,April,Delivered
+ORD00245,RS019,Home & Kitchen,Home & Kitchen Item 659,1,797.53,2026-04-18,April,Delivered
+ORD00246,RS006,Home & Kitchen,Home & Kitchen Item 831,4,1431.43,2026-04-16,April,Delivered
+ORD00247,RS005,Ethnic Wear,Ethnic Wear Item 811,1,1252.81,2026-04-10,April,Delivered
+ORD00248,RS007,Beauty & Personal Care,Beauty & Personal Care Item 557,1,354.14,2026-04-13,April,Pending
+ORD00249,RS016,Western Wear,Western Wear Item 49,1,1064.63,2026-04-12,April,Cancelled
+ORD00250,RS021,Western Wear,Western Wear Item 451,1,467.25,2026-04-29,April,Delivered
+ORD00251,RS013,Western Wear,Western Wear Item 532,2,526.48,2026-04-12,April,Cancelled
+ORD00252,RS009,Home & Kitchen,Home & Kitchen Item 185,1,1507.75,2026-04-20,April,Pending
+ORD00253,RS018,Western Wear,Western Wear Item 618,1,446.47,2026-04-10,April,Delivered
+ORD00254,RS023,Western Wear,Western Wear Item 934,1,1004.28,2026-04-02,April,Returned
+ORD00255,RS012,Kids Wear,Kids Wear Item 77,2,531.71,2026-04-26,April,Cancelled
+ORD00256,RS022,Kids Wear,Kids Wear Item 32,3,485.15,2026-04-22,April,Delivered
+ORD00257,RS005,Beauty & Personal Care,Beauty & Personal Care Item 798,1,589.76,2026-04-05,April,Delivered
+ORD00258,RS021,Western Wear,Western Wear Item 461,2,712.71,2026-04-20,April,Delivered
+ORD00259,RS012,Western Wear,Western Wear Item 322,2,1073.93,2026-04-17,April,Delivered
+ORD00260,RS021,Western Wear,Western Wear Item 397,1,1261.49,2026-04-06,April,Delivered
+ORD00261,RS018,Ethnic Wear,Ethnic Wear Item 293,2,1251.46,2026-04-07,April,Pending
+ORD00262,RS023,Beauty & Personal Care,Beauty & Personal Care Item 177,1,468.28,2026-04-28,April,Delivered
+ORD00263,RS023,Kids Wear,Kids Wear Item 684,2,306.06,2026-04-28,April,Pending
+ORD00264,RS012,Home & Kitchen,Home & Kitchen Item 729,1,1188.99,2026-04-10,April,Cancelled
+ORD00265,RS023,Beauty & Personal Care,Beauty & Personal Care Item 206,2,563.51,2026-04-17,April,Delivered
+ORD00266,RS005,Western Wear,Western Wear Item 823,1,818.32,2026-04-19,April,Delivered
+ORD00267,RS018,Ethnic Wear,Ethnic Wear Item 737,1,1371.67,2026-04-13,April,Pending
+ORD00268,RS016,Kids Wear,Kids Wear Item 325,3,748.96,2026-04-03,April,Delivered
+ORD00269,RS021,Ethnic Wear,Ethnic Wear Item 799,1,911.42,2026-04-05,April,Cancelled
+ORD00270,RS018,Kids Wear,Kids Wear Item 890,4,367.28,2026-04-14,April,Delivered
+ORD00271,RS002,Home & Kitchen,Home & Kitchen Item 727,1,1131.58,2026-04-06,April,Delivered
+ORD00272,RS008,Western Wear,Western Wear Item 202,3,1242.86,2026-04-28,April,Delivered
+ORD00273,RS021,Beauty & Personal Care,Beauty & Personal Care Item 515,2,327.39,2026-04-20,April,Delivered
+ORD00274,RS021,Ethnic Wear,Ethnic Wear Item 924,1,1434.77,2026-04-22,April,Delivered
+ORD00275,RS020,Western Wear,Western Wear Item 47,1,1226.73,2026-04-28,April,Delivered
+ORD00276,RS021,Home & Kitchen,Home & Kitchen Item 655,1,675.38,2026-04-19,April,Delivered
+ORD00277,RS001,Kids Wear,Kids Wear Item 825,1,656.66,2026-04-10,April,Delivered
+ORD00278,RS022,Western Wear,Western Wear Item 496,2,779.87,2026-04-06,April,Delivered
+ORD00279,RS015,Western Wear,Western Wear Item 882,1,925.33,2026-04-23,April,Delivered
+ORD00280,RS012,Beauty & Personal Care,Beauty & Personal Care Item 248,1,234.0,2026-04-18,April,Delivered
+ORD00281,RS015,Ethnic Wear,Ethnic Wear Item 394,1,893.56,2026-04-02,April,Delivered
+ORD00282,RS020,Western Wear,Western Wear Item 592,3,1263.55,2026-04-27,April,Delivered
+ORD00283,RS011,Ethnic Wear,Ethnic Wear Item 316,4,574.28,2026-04-15,April,Delivered
+ORD00284,RS016,Ethnic Wear,Ethnic Wear Item 362,1,1438.76,2026-04-08,April,Delivered
+ORD00285,RS002,Ethnic Wear,Ethnic Wear Item 293,3,943.38,2026-04-21,April,Delivered
+ORD00286,RS018,Ethnic Wear,Ethnic Wear Item 783,1,517.25,2026-04-09,April,Returned
+ORD00287,RS013,Western Wear,Western Wear Item 296,2,729.55,2026-04-07,April,Delivered
+ORD00288,RS003,Western Wear,Western Wear Item 697,1,776.84,2026-04-27,April,Pending
+ORD00289,RS020,Ethnic Wear,Ethnic Wear Item 572,1,1471.59,2026-04-26,April,Pending
+ORD00290,RS012,Home & Kitchen,Home & Kitchen Item 40,1,557.3,2026-04-17,April,Delivered
+ORD00291,RS005,Home & Kitchen,Home & Kitchen Item 528,1,1646.14,2026-04-05,April,Delivered
+ORD00292,RS005,Western Wear,Western Wear Item 307,1,931.41,2026-04-20,April,Returned
+ORD00293,RS019,Western Wear,Western Wear Item 487,1,1135.87,2026-04-23,April,Delivered
+ORD00294,RS001,Western Wear,Western Wear Item 921,4,989.12,2026-04-19,April,Delivered
+ORD00295,RS023,Kids Wear,Kids Wear Item 795,1,636.99,2026-04-21,April,Returned
+ORD00296,RS019,Kids Wear,Kids Wear Item 739,2,717.91,2026-04-06,April,Delivered
+ORD00297,RS020,Home & Kitchen,Home & Kitchen Item 971,3,883.34,2026-04-08,April,Delivered
+ORD00298,RS023,Ethnic Wear,Ethnic Wear Item 209,1,419.83,2026-04-05,April,Delivered
+ORD00299,RS014,Kids Wear,Kids Wear Item 64,1,646.46,2026-04-28,April,Returned
+ORD00300,RS023,Ethnic Wear,Ethnic Wear Item 386,1,627.08,2026-04-22,April,Delivered
+ORD00301,RS011,Beauty & Personal Care,Beauty & Personal Care Item 791,1,447.78,2026-05-18,May,Delivered
+ORD00302,RS022,Kids Wear,Kids Wear Item 286,2,699.65,2026-05-07,May,Pending
+ORD00303,RS018,Ethnic Wear,Ethnic Wear Item 213,4,1434.63,2026-05-25,May,Delivered
+ORD00304,RS023,Home & Kitchen,Home & Kitchen Item 739,1,769.67,2026-05-30,May,Cancelled
+ORD00305,RS009,Ethnic Wear,Ethnic Wear Item 839,1,1029.82,2026-05-29,May,Pending
+ORD00306,RS012,Beauty & Personal Care,Beauty & Personal Care Item 81,1,672.0,2026-05-10,May,Pending
+ORD00307,RS012,Beauty & Personal Care,Beauty & Personal Care Item 552,2,575.38,2026-05-07,May,Delivered
+ORD00308,RS009,Beauty & Personal Care,Beauty & Personal Care Item 246,1,601.51,2026-05-20,May,Returned
+ORD00309,RS008,Ethnic Wear,Ethnic Wear Item 424,1,1394.7,2026-05-08,May,Delivered
+ORD00310,RS011,Home & Kitchen,Home & Kitchen Item 952,2,379.98,2026-05-01,May,Pending
+ORD00311,RS006,Western Wear,Western Wear Item 775,3,1237.28,2026-05-16,May,Delivered
+ORD00312,RS010,Ethnic Wear,Ethnic Wear Item 238,3,1109.49,2026-05-03,May,Delivered
+ORD00313,RS018,Home & Kitchen,Home & Kitchen Item 904,1,1729.6,2026-05-30,May,Delivered
+ORD00314,RS006,Beauty & Personal Care,Beauty & Personal Care Item 960,3,172.62,2026-05-26,May,Delivered
+ORD00315,RS010,Beauty & Personal Care,Beauty & Personal Care Item 344,2,155.02,2026-05-04,May,Cancelled
+ORD00316,RS010,Western Wear,Western Wear Item 872,1,958.25,2026-05-29,May,Cancelled
+ORD00317,RS017,Western Wear,Western Wear Item 664,1,532.17,2026-05-06,May,Returned
+ORD00318,RS009,Home & Kitchen,Home & Kitchen Item 776,1,224.35,2026-05-10,May,Delivered
+ORD00319,RS007,Ethnic Wear,Ethnic Wear Item 336,3,1340.76,2026-05-27,May,Delivered
+ORD00320,RS003,Western Wear,Western Wear Item 255,4,439.62,2026-05-16,May,Delivered
+ORD00321,RS001,Ethnic Wear,Ethnic Wear Item 597,2,658.07,2026-05-31,May,Delivered
+ORD00322,RS019,Ethnic Wear,Ethnic Wear Item 477,2,1118.05,2026-05-02,May,Delivered
+ORD00323,RS010,Ethnic Wear,Ethnic Wear Item 319,3,1153.68,2026-05-29,May,Returned
+ORD00324,RS023,Ethnic Wear,Ethnic Wear Item 981,1,1406.74,2026-05-20,May,Delivered
+ORD00325,RS005,Western Wear,Western Wear Item 563,4,781.23,2026-05-12,May,Delivered
+ORD00326,RS016,Home & Kitchen,Home & Kitchen Item 773,3,1642.59,2026-05-25,May,Delivered
+ORD00327,RS020,Beauty & Personal Care,Beauty & Personal Care Item 940,1,202.22,2026-05-23,May,Delivered
+ORD00328,RS019,Ethnic Wear,Ethnic Wear Item 154,3,1310.65,2026-05-07,May,Delivered
+ORD00329,RS006,Ethnic Wear,Ethnic Wear Item 501,1,971.38,2026-05-07,May,Returned
+ORD00330,RS003,Beauty & Personal Care,Beauty & Personal Care Item 468,1,438.56,2026-05-05,May,Delivered
+ORD00331,RS019,Ethnic Wear,Ethnic Wear Item 261,3,907.62,2026-05-24,May,Delivered
+ORD00332,RS001,Home & Kitchen,Home & Kitchen Item 555,1,1239.96,2026-05-12,May,Returned
+ORD00333,RS002,Beauty & Personal Care,Beauty & Personal Care Item 185,4,193.86,2026-05-02,May,Delivered
+ORD00334,RS005,Home & Kitchen,Home & Kitchen Item 913,2,1960.0,2026-05-14,May,Delivered
+ORD00335,RS013,Western Wear,Western Wear Item 678,1,1220.26,2026-05-03,May,Delivered
+ORD00336,RS018,Ethnic Wear,Ethnic Wear Item 131,1,1345.32,2026-05-18,May,Delivered
+ORD00337,RS008,Home & Kitchen,Home & Kitchen Item 558,4,1560.12,2026-05-15,May,Delivered
+ORD00338,RS014,Western Wear,Western Wear Item 194,1,1131.19,2026-05-12,May,Delivered
+ORD00339,RS004,Ethnic Wear,Ethnic Wear Item 17,2,1125.22,2026-05-30,May,Cancelled
+ORD00340,RS008,Ethnic Wear,Ethnic Wear Item 894,1,509.99,2026-05-20,May,Delivered
+ORD00341,RS002,Ethnic Wear,Ethnic Wear Item 885,1,447.66,2026-05-18,May,Delivered
+ORD00342,RS002,Ethnic Wear,Ethnic Wear Item 327,1,1491.83,2026-05-30,May,Returned
+ORD00343,RS019,Kids Wear,Kids Wear Item 677,1,686.15,2026-05-10,May,Cancelled
+ORD00344,RS017,Ethnic Wear,Ethnic Wear Item 753,1,729.55,2026-05-31,May,Delivered
+ORD00345,RS006,Kids Wear,Kids Wear Item 688,1,526.68,2026-05-12,May,Cancelled
+ORD00346,RS013,Home & Kitchen,Home & Kitchen Item 189,1,772.72,2026-05-05,May,Delivered
+ORD00347,RS018,Western Wear,Western Wear Item 475,1,1155.87,2026-05-23,May,Delivered
+ORD00348,RS002,Kids Wear,Kids Wear Item 262,2,878.06,2026-05-05,May,Delivered
+ORD00349,RS007,Ethnic Wear,Ethnic Wear Item 742,1,485.98,2026-05-12,May,Delivered
+ORD00350,RS007,Ethnic Wear,Ethnic Wear Item 193,2,813.88,2026-05-02,May,Cancelled
+ORD00351,RS019,Home & Kitchen,Home & Kitchen Item 311,1,1204.93,2026-05-28,May,Cancelled
+ORD00352,RS001,Ethnic Wear,Ethnic Wear Item 491,2,608.03,2026-05-24,May,Pending
+ORD00353,RS008,Kids Wear,Kids Wear Item 795,1,706.45,2026-05-08,May,Delivered
+ORD00354,RS010,Western Wear,Western Wear Item 904,1,855.97,2026-05-09,May,Delivered
+ORD00355,RS016,Western Wear,Western Wear Item 937,2,1111.68,2026-05-25,May,Returned
+ORD00356,RS007,Western Wear,Western Wear Item 17,2,742.23,2026-05-08,May,Returned
+ORD00357,RS009,Kids Wear,Kids Wear Item 338,2,628.62,2026-05-10,May,Delivered
+ORD00358,RS008,Western Wear,Western Wear Item 346,1,1140.69,2026-05-21,May,Cancelled
+ORD00359,RS009,Home & Kitchen,Home & Kitchen Item 173,2,1078.52,2026-05-24,May,Delivered
+ORD00360,RS012,Ethnic Wear,Ethnic Wear Item 658,1,1191.34,2026-05-30,May,Cancelled
+ORD00361,RS002,Western Wear,Western Wear Item 783,1,1146.12,2026-05-27,May,Delivered
+ORD00362,RS001,Western Wear,Western Wear Item 224,1,1149.42,2026-05-23,May,Delivered
+ORD00363,RS017,Western Wear,Western Wear Item 495,2,406.43,2026-05-30,May,Delivered
+ORD00364,RS022,Western Wear,Western Wear Item 740,2,355.28,2026-05-01,May,Delivered
+ORD00365,RS009,Western Wear,Western Wear Item 826,1,621.35,2026-05-23,May,Delivered
+ORD00366,RS006,Ethnic Wear,Ethnic Wear Item 259,1,504.95,2026-05-07,May,Delivered
+ORD00367,RS012,Ethnic Wear,Ethnic Wear Item 250,1,835.59,2026-05-13,May,Delivered
+ORD00368,RS023,Ethnic Wear,Ethnic Wear Item 666,3,1151.45,2026-05-21,May,Pending
+ORD00369,RS002,Ethnic Wear,Ethnic Wear Item 720,2,816.19,2026-05-02,May,Delivered
+ORD00370,RS006,Ethnic Wear,Ethnic Wear Item 879,2,1328.86,2026-05-11,May,Delivered
+ORD00371,RS004,Beauty & Personal Care,Beauty & Personal Care Item 909,1,746.45,2026-05-29,May,Cancelled
+ORD00372,RS019,Western Wear,Western Wear Item 557,1,393.23,2026-05-30,May,Delivered
+ORD00373,RS019,Kids Wear,Kids Wear Item 602,3,365.58,2026-05-01,May,Pending
+ORD00374,RS005,Home & Kitchen,Home & Kitchen Item 578,1,1481.88,2026-05-03,May,Delivered
+ORD00375,RS008,Kids Wear,Kids Wear Item 774,2,801.14,2026-05-18,May,Delivered
+ORD00376,RS005,Home & Kitchen,Home & Kitchen Item 55,1,1439.76,2026-05-24,May,Pending
+ORD00377,RS004,Western Wear,Western Wear Item 610,1,1145.74,2026-05-25,May,Delivered
+ORD00378,RS013,Beauty & Personal Care,Beauty & Personal Care Item 503,2,361.14,2026-05-26,May,Pending
+ORD00379,RS008,Western Wear,Western Wear Item 390,1,1243.09,2026-05-22,May,Delivered
+ORD00380,RS003,Home & Kitchen,Home & Kitchen Item 158,1,730.68,2026-05-03,May,Delivered
+ORD00381,RS013,Home & Kitchen,Home & Kitchen Item 94,2,1340.02,2026-05-11,May,Delivered
+ORD00382,RS001,Beauty & Personal Care,Beauty & Personal Care Item 192,2,438.08,2026-05-04,May,Delivered
+ORD00383,RS014,Western Wear,Western Wear Item 568,1,876.0,2026-05-01,May,Delivered
+ORD00384,RS003,Kids Wear,Kids Wear Item 398,3,758.89,2026-05-01,May,Delivered
+ORD00385,RS003,Home & Kitchen,Home & Kitchen Item 174,4,1206.17,2026-05-08,May,Delivered
+ORD00386,RS022,Western Wear,Western Wear Item 172,1,480.9,2026-05-16,May,Delivered
+ORD00387,RS014,Ethnic Wear,Ethnic Wear Item 253,2,728.73,2026-05-12,May,Delivered
+ORD00388,RS021,Western Wear,Western Wear Item 972,1,934.84,2026-05-05,May,Delivered
+ORD00389,RS013,Ethnic Wear,Ethnic Wear Item 441,3,1081.21,2026-05-11,May,Delivered
+ORD00390,RS021,Beauty & Personal Care,Beauty & Personal Care Item 491,1,237.48,2026-05-31,May,Delivered
+ORD00391,RS011,Ethnic Wear,Ethnic Wear Item 503,1,837.06,2026-05-24,May,Delivered
+ORD00392,RS019,Home & Kitchen,Home & Kitchen Item 117,1,785.6,2026-05-26,May,Delivered
+ORD00393,RS019,Ethnic Wear,Ethnic Wear Item 976,1,1495.99,2026-05-25,May,Delivered
+ORD00394,RS015,Beauty & Personal Care,Beauty & Personal Care Item 839,2,285.27,2026-05-27,May,Delivered
+ORD00395,RS014,Kids Wear,Kids Wear Item 733,1,339.47,2026-05-09,May,Delivered
+ORD00396,RS014,Home & Kitchen,Home & Kitchen Item 548,4,332.14,2026-05-16,May,Delivered
+ORD00397,RS017,Beauty & Personal Care,Beauty & Personal Care Item 369,1,714.26,2026-05-02,May,Returned
+ORD00398,RS023,Beauty & Personal Care,Beauty & Personal Care Item 255,2,497.99,2026-05-03,May,Delivered
+ORD00399,RS022,Kids Wear,Kids Wear Item 694,2,357.12,2026-05-19,May,Pending
+ORD00400,RS021,Western Wear,Western Wear Item 101,4,1064.05,2026-05-14,May,Delivered
+ORD00401,RS009,Ethnic Wear,Ethnic Wear Item 457,2,1220.54,2026-05-23,May,Delivered
+ORD00402,RS012,Western Wear,Western Wear Item 26,2,1082.73,2026-05-17,May,Delivered
+ORD00403,RS016,Ethnic Wear,Ethnic Wear Item 748,4,856.57,2026-05-04,May,Returned
+ORD00404,RS005,Western Wear,Western Wear Item 488,2,674.91,2026-05-17,May,Delivered
+ORD00405,RS004,Western Wear,Western Wear Item 728,1,1010.93,2026-05-10,May,Delivered
+ORD00406,RS004,Ethnic Wear,Ethnic Wear Item 759,1,776.39,2026-05-26,May,Delivered
+ORD00407,RS008,Western Wear,Western Wear Item 238,1,873.31,2026-05-14,May,Pending
+ORD00408,RS013,Kids Wear,Kids Wear Item 629,2,370.15,2026-05-13,May,Delivered
+ORD00409,RS007,Western Wear,Western Wear Item 771,1,757.08,2026-05-07,May,Delivered
+ORD00410,RS023,Home & Kitchen,Home & Kitchen Item 375,1,311.61,2026-05-28,May,Delivered
+ORD00411,RS011,Ethnic Wear,Ethnic Wear Item 655,2,524.35,2026-05-16,May,Delivered
+ORD00412,RS011,Kids Wear,Kids Wear Item 469,2,646.35,2026-05-12,May,Delivered
+ORD00413,RS020,Ethnic Wear,Ethnic Wear Item 87,3,1139.95,2026-05-30,May,Delivered
+ORD00414,RS022,Ethnic Wear,Ethnic Wear Item 145,1,528.65,2026-05-06,May,Delivered
+ORD00415,RS017,Western Wear,Western Wear Item 651,2,915.6,2026-05-14,May,Delivered
+ORD00416,RS018,Kids Wear,Kids Wear Item 296,4,668.42,2026-05-18,May,Delivered
+ORD00417,RS005,Ethnic Wear,Ethnic Wear Item 10,2,1325.18,2026-05-28,May,Delivered
+ORD00418,RS016,Ethnic Wear,Ethnic Wear Item 419,4,1295.74,2026-05-17,May,Delivered
+ORD00419,RS022,Western Wear,Western Wear Item 32,1,1023.64,2026-05-06,May,Delivered
+ORD00420,RS008,Ethnic Wear,Ethnic Wear Item 580,1,701.34,2026-05-06,May,Returned
+ORD00421,RS016,Kids Wear,Kids Wear Item 376,1,322.59,2026-05-25,May,Delivered
+ORD00422,RS018,Home & Kitchen,Home & Kitchen Item 436,2,273.9,2026-05-18,May,Delivered
+ORD00423,RS004,Home & Kitchen,Home & Kitchen Item 461,1,1375.61,2026-05-28,May,Pending
+ORD00424,RS009,Western Wear,Western Wear Item 243,1,1124.89,2026-05-04,May,Returned
+ORD00425,RS007,Home & Kitchen,Home & Kitchen Item 439,1,1257.26,2026-05-23,May,Delivered
+ORD00426,RS006,Kids Wear,Kids Wear Item 360,3,759.15,2026-05-26,May,Delivered
+ORD00427,RS018,Ethnic Wear,Ethnic Wear Item 587,1,991.65,2026-05-23,May,Delivered
+ORD00428,RS009,Beauty & Personal Care,Beauty & Personal Care Item 986,3,483.37,2026-05-27,May,Delivered
+ORD00429,RS014,Beauty & Personal Care,Beauty & Personal Care Item 136,3,794.12,2026-05-05,May,Returned
+ORD00430,RS008,Ethnic Wear,Ethnic Wear Item 502,1,753.31,2026-05-27,May,Delivered
+ORD00431,RS005,Kids Wear,Kids Wear Item 814,1,423.67,2026-05-15,May,Delivered
+ORD00432,RS003,Western Wear,Western Wear Item 974,2,1061.31,2026-05-29,May,Delivered
+ORD00433,RS016,Ethnic Wear,Ethnic Wear Item 996,2,401.72,2026-05-24,May,Delivered
+ORD00434,RS015,Kids Wear,Kids Wear Item 224,3,702.24,2026-05-26,May,Delivered
+ORD00435,RS014,Home & Kitchen,Home & Kitchen Item 592,1,1089.49,2026-05-10,May,Delivered
+ORD00436,RS005,Kids Wear,Kids Wear Item 48,1,564.47,2026-05-22,May,Returned
+ORD00437,RS004,Kids Wear,Kids Wear Item 452,1,792.86,2026-05-30,May,Cancelled
+ORD00438,RS015,Ethnic Wear,Ethnic Wear Item 904,1,1452.83,2026-05-23,May,Cancelled
+ORD00439,RS021,Ethnic Wear,Ethnic Wear Item 257,3,1360.87,2026-05-03,May,Delivered
+ORD00440,RS003,Western Wear,Western Wear Item 744,1,1207.61,2026-05-13,May,Delivered
+ORD00441,RS023,Home & Kitchen,Home & Kitchen Item 489,1,971.62,2026-05-04,May,Delivered
+ORD00442,RS003,Ethnic Wear,Ethnic Wear Item 352,2,647.81,2026-05-01,May,Delivered
+ORD00443,RS004,Beauty & Personal Care,Beauty & Personal Care Item 92,1,423.5,2026-05-03,May,Delivered
+ORD00444,RS004,Ethnic Wear,Ethnic Wear Item 772,1,803.32,2026-05-13,May,Returned
+ORD00445,RS005,Kids Wear,Kids Wear Item 666,1,689.14,2026-05-19,May,Delivered
+ORD00446,RS006,Western Wear,Western Wear Item 631,2,1035.31,2026-05-05,May,Cancelled
+ORD00447,RS022,Western Wear,Western Wear Item 604,3,555.38,2026-05-05,May,Returned
+ORD00448,RS013,Western Wear,Western Wear Item 87,2,756.92,2026-05-08,May,Delivered
+ORD00449,RS008,Kids Wear,Kids Wear Item 28,2,639.01,2026-05-25,May,Cancelled
+ORD00450,RS022,Beauty & Personal Care,Beauty & Personal Care Item 303,2,282.54,2026-05-07,May,Returned
+ORD00451,RS021,Ethnic Wear,Ethnic Wear Item 247,4,1386.7,2026-05-16,May,Delivered
+ORD00452,RS016,Kids Wear,Kids Wear Item 957,3,295.16,2026-05-01,May,Pending
+ORD00453,RS011,Ethnic Wear,Ethnic Wear Item 177,2,1345.9,2026-05-12,May,Delivered
+ORD00454,RS016,Beauty & Personal Care,Beauty & Personal Care Item 221,1,649.74,2026-05-03,May,Delivered
+ORD00455,RS002,Beauty & Personal Care,Beauty & Personal Care Item 514,1,765.64,2026-05-10,May,Delivered
+ORD00456,RS014,Western Wear,Western Wear Item 285,2,731.16,2026-05-18,May,Delivered
+ORD00457,RS003,Ethnic Wear,Ethnic Wear Item 335,1,961.44,2026-05-26,May,Delivered
+ORD00458,RS013,Kids Wear,Kids Wear Item 716,2,745.1,2026-05-21,May,Delivered
+ORD00459,RS014,Home & Kitchen,Home & Kitchen Item 119,1,1722.64,2026-05-03,May,Cancelled
+ORD00460,RS015,Kids Wear,Kids Wear Item 123,2,284.77,2026-05-22,May,Returned
+ORD00461,RS001,Home & Kitchen,Home & Kitchen Item 530,1,1461.7,2026-05-31,May,Delivered
+ORD00462,RS009,Ethnic Wear,Ethnic Wear Item 121,2,538.62,2026-05-09,May,Returned
+ORD00463,RS001,Ethnic Wear,Ethnic Wear Item 591,1,871.26,2026-05-09,May,Returned
+ORD00464,RS021,Ethnic Wear,Ethnic Wear Item 171,1,899.72,2026-05-16,May,Cancelled
+ORD00465,RS012,Ethnic Wear,Ethnic Wear Item 234,3,1249.66,2026-05-22,May,Returned
+ORD00466,RS017,Ethnic Wear,Ethnic Wear Item 393,1,1343.56,2026-05-02,May,Delivered
+ORD00467,RS005,Ethnic Wear,Ethnic Wear Item 759,1,1455.38,2026-05-26,May,Cancelled
+ORD00468,RS021,Western Wear,Western Wear Item 846,1,654.71,2026-05-24,May,Delivered
+ORD00469,RS003,Kids Wear,Kids Wear Item 824,2,326.61,2026-05-02,May,Delivered
+ORD00470,RS017,Beauty & Personal Care,Beauty & Personal Care Item 793,1,769.15,2026-05-15,May,Cancelled
+ORD00471,RS010,Ethnic Wear,Ethnic Wear Item 804,1,1007.4,2026-05-07,May,Delivered
+ORD00472,RS010,Home & Kitchen,Home & Kitchen Item 795,1,635.65,2026-05-16,May,Pending
+ORD00473,RS007,Home & Kitchen,Home & Kitchen Item 420,2,1182.81,2026-05-05,May,Delivered
+ORD00474,RS001,Ethnic Wear,Ethnic Wear Item 344,3,780.07,2026-05-29,May,Delivered
+ORD00475,RS001,Home & Kitchen,Home & Kitchen Item 543,2,876.29,2026-05-10,May,Delivered
+ORD00476,RS008,Western Wear,Western Wear Item 96,4,1262.13,2026-05-05,May,Returned
+ORD00477,RS002,Beauty & Personal Care,Beauty & Personal Care Item 470,1,732.24,2026-05-23,May,Cancelled
+ORD00478,RS003,Kids Wear,Kids Wear Item 582,2,577.53,2026-05-13,May,Delivered
+ORD00479,RS002,Western Wear,Western Wear Item 949,1,1265.01,2026-05-09,May,Cancelled
+ORD00480,RS013,Home & Kitchen,Home & Kitchen Item 967,1,1522.64,2026-05-09,May,Delivered
+ORD00481,RS007,Ethnic Wear,Ethnic Wear Item 478,1,1246.16,2026-05-04,May,Delivered
+ORD00482,RS011,Western Wear,Western Wear Item 475,4,858.13,2026-05-07,May,Delivered
+ORD00483,RS009,Beauty & Personal Care,Beauty & Personal Care Item 714,3,207.77,2026-05-10,May,Returned
+ORD00484,RS020,Ethnic Wear,Ethnic Wear Item 992,1,1318.52,2026-05-03,May,Returned
+ORD00485,RS012,Western Wear,Western Wear Item 32,1,395.5,2026-05-27,May,Pending
+ORD00486,RS013,Beauty & Personal Care,Beauty & Personal Care Item 824,2,510.37,2026-05-04,May,Delivered
+ORD00487,RS005,Ethnic Wear,Ethnic Wear Item 844,2,466.84,2026-05-08,May,Delivered
+ORD00488,RS013,Western Wear,Western Wear Item 940,2,947.78,2026-05-19,May,Delivered
+ORD00489,RS003,Ethnic Wear,Ethnic Wear Item 95,3,469.92,2026-05-15,May,Returned
+ORD00490,RS011,Ethnic Wear,Ethnic Wear Item 842,1,1435.51,2026-05-30,May,Delivered
+ORD00491,RS013,Western Wear,Western Wear Item 192,1,712.59,2026-05-12,May,Delivered
+ORD00492,RS009,Ethnic Wear,Ethnic Wear Item 663,1,1370.77,2026-05-20,May,Delivered
+ORD00493,RS010,Western Wear,Western Wear Item 141,1,1187.64,2026-05-03,May,Delivered
+ORD00494,RS014,Ethnic Wear,Ethnic Wear Item 557,1,1372.12,2026-05-21,May,Pending
+ORD00495,RS001,Beauty & Personal Care,Beauty & Personal Care Item 353,1,657.25,2026-05-18,May,Returned
+ORD00496,RS019,Western Wear,Western Wear Item 31,1,717.96,2026-05-11,May,Delivered
+ORD00497,RS009,Ethnic Wear,Ethnic Wear Item 239,1,1489.68,2026-05-25,May,Delivered
+ORD00498,RS006,Ethnic Wear,Ethnic Wear Item 755,1,1121.55,2026-05-27,May,Returned
+ORD00499,RS002,Home & Kitchen,Home & Kitchen Item 958,2,1905.04,2026-05-26,May,Delivered
+ORD00500,RS006,Ethnic Wear,Ethnic Wear Item 606,3,1050.77,2026-05-23,May,Delivered
+ORD00501,RS001,Home & Kitchen,Home & Kitchen Item 193,2,832.03,2026-05-05,May,Delivered
+ORD00502,RS016,Kids Wear,Kids Wear Item 225,1,363.11,2026-05-02,May,Delivered
+ORD00503,RS001,Western Wear,Western Wear Item 349,3,349.65,2026-05-07,May,Returned
+ORD00504,RS023,Ethnic Wear,Ethnic Wear Item 601,3,1281.67,2026-05-02,May,Delivered
+ORD00505,RS023,Beauty & Personal Care,Beauty & Personal Care Item 75,3,652.34,2026-05-28,May,Delivered
+ORD00506,RS012,Home & Kitchen,Home & Kitchen Item 140,2,1390.85,2026-05-11,May,Delivered
+ORD00507,RS006,Home & Kitchen,Home & Kitchen Item 179,2,985.36,2026-05-16,May,Delivered
+ORD00508,RS023,Beauty & Personal Care,Beauty & Personal Care Item 682,3,599.81,2026-05-26,May,Delivered
+ORD00509,RS019,Home & Kitchen,Home & Kitchen Item 747,2,880.09,2026-05-10,May,Delivered
+ORD00510,RS001,Beauty & Personal Care,Beauty & Personal Care Item 34,1,765.65,2026-05-25,May,Pending
+ORD00511,RS006,Kids Wear,Kids Wear Item 107,4,847.67,2026-05-08,May,Delivered
+ORD00512,RS016,Ethnic Wear,Ethnic Wear Item 907,1,1218.88,2026-05-11,May,Delivered
+ORD00513,RS003,Home & Kitchen,Home & Kitchen Item 272,2,1405.04,2026-05-11,May,Delivered
+ORD00514,RS007,Ethnic Wear,Ethnic Wear Item 50,1,473.57,2026-05-04,May,Returned
+ORD00515,RS013,Western Wear,Western Wear Item 388,1,747.67,2026-05-14,May,Delivered
+ORD00516,RS012,Kids Wear,Kids Wear Item 777,1,314.93,2026-05-28,May,Delivered
+ORD00517,RS022,Ethnic Wear,Ethnic Wear Item 327,2,895.42,2026-05-02,May,Delivered
+ORD00518,RS009,Beauty & Personal Care,Beauty & Personal Care Item 77,1,197.23,2026-05-13,May,Delivered
+ORD00519,RS018,Beauty & Personal Care,Beauty & Personal Care Item 722,1,784.73,2026-05-20,May,Cancelled
+ORD00520,RS001,Western Wear,Western Wear Item 104,2,969.95,2026-05-14,May,Delivered
+ORD00521,RS011,Ethnic Wear,Ethnic Wear Item 554,2,607.98,2026-05-24,May,Cancelled
+ORD00522,RS009,Kids Wear,Kids Wear Item 861,1,442.31,2026-05-13,May,Delivered
+ORD00523,RS016,Ethnic Wear,Ethnic Wear Item 641,1,795.91,2026-05-10,May,Returned
+ORD00524,RS020,Western Wear,Western Wear Item 84,1,441.14,2026-05-21,May,Delivered
+ORD00525,RS016,Beauty & Personal Care,Beauty & Personal Care Item 272,1,349.43,2026-05-16,May,Cancelled
+ORD00526,RS003,Kids Wear,Kids Wear Item 457,1,500.89,2026-05-13,May,Delivered
+ORD00527,RS002,Ethnic Wear,Ethnic Wear Item 155,1,910.56,2026-05-09,May,Delivered
+ORD00528,RS023,Kids Wear,Kids Wear Item 775,1,304.71,2026-05-18,May,Delivered
+ORD00529,RS019,Ethnic Wear,Ethnic Wear Item 549,1,466.08,2026-05-17,May,Delivered
+ORD00530,RS022,Beauty & Personal Care,Beauty & Personal Care Item 405,3,457.64,2026-05-16,May,Delivered
+ORD00531,RS023,Ethnic Wear,Ethnic Wear Item 636,1,1027.34,2026-05-19,May,Delivered
+ORD00532,RS005,Ethnic Wear,Ethnic Wear Item 828,1,1231.91,2026-05-06,May,Pending
+ORD00533,RS007,Ethnic Wear,Ethnic Wear Item 843,4,864.71,2026-05-14,May,Delivered
+ORD00534,RS021,Ethnic Wear,Ethnic Wear Item 69,1,1053.55,2026-05-24,May,Cancelled
+ORD00535,RS003,Western Wear,Western Wear Item 940,1,726.49,2026-05-09,May,Delivered
+ORD00536,RS001,Home & Kitchen,Home & Kitchen Item 154,1,1320.5,2026-05-14,May,Delivered
+ORD00537,RS005,Kids Wear,Kids Wear Item 577,4,627.74,2026-05-04,May,Cancelled
+ORD00538,RS004,Home & Kitchen,Home & Kitchen Item 393,3,1760.46,2026-05-29,May,Delivered
+ORD00539,RS021,Western Wear,Western Wear Item 634,1,927.51,2026-05-09,May,Delivered
+ORD00540,RS020,Kids Wear,Kids Wear Item 244,1,510.12,2026-05-29,May,Delivered
+ORD00541,RS002,Home & Kitchen,Home & Kitchen Item 813,3,1856.5,2026-05-01,May,Delivered
+ORD00542,RS010,Ethnic Wear,Ethnic Wear Item 890,3,1326.13,2026-05-22,May,Delivered
+ORD00543,RS008,Ethnic Wear,Ethnic Wear Item 747,1,1470.64,2026-05-27,May,Delivered
+ORD00544,RS014,Kids Wear,Kids Wear Item 759,1,307.04,2026-05-30,May,Returned
+ORD00545,RS016,Home & Kitchen,Home & Kitchen Item 68,3,1759.94,2026-05-17,May,Returned
+ORD00546,RS010,Home & Kitchen,Home & Kitchen Item 30,2,925.09,2026-05-17,May,Cancelled
+ORD00547,RS006,Ethnic Wear,Ethnic Wear Item 52,3,1315.22,2026-05-08,May,Delivered
+ORD00548,RS012,Home & Kitchen,Home & Kitchen Item 946,3,692.16,2026-05-17,May,Delivered
+ORD00549,RS004,Kids Wear,Kids Wear Item 892,1,406.26,2026-05-15,May,Delivered
+ORD00550,RS016,Kids Wear,Kids Wear Item 851,1,476.34,2026-05-29,May,Delivered
+ORD00551,RS023,Ethnic Wear,Ethnic Wear Item 989,1,429.2,2026-05-28,May,Delivered
+ORD00552,RS007,Beauty & Personal Care,Beauty & Personal Care Item 526,2,569.8,2026-05-09,May,Delivered
+ORD00553,RS001,Beauty & Personal Care,Beauty & Personal Care Item 663,2,777.64,2026-05-16,May,Cancelled
+ORD00554,RS006,Kids Wear,Kids Wear Item 730,1,254.5,2026-05-26,May,Cancelled
+ORD00555,RS023,Kids Wear,Kids Wear Item 224,1,524.47,2026-05-12,May,Delivered
+ORD00556,RS015,Ethnic Wear,Ethnic Wear Item 524,2,971.7,2026-05-19,May,Delivered
+ORD00557,RS022,Beauty & Personal Care,Beauty & Personal Care Item 306,2,694.6,2026-05-20,May,Delivered
+ORD00558,RS022,Ethnic Wear,Ethnic Wear Item 284,4,469.22,2026-05-21,May,Delivered
+ORD00559,RS009,Kids Wear,Kids Wear Item 784,2,867.92,2026-05-07,May,Delivered
+ORD00560,RS008,Beauty & Personal Care,Beauty & Personal Care Item 328,3,672.53,2026-05-20,May,Delivered
+ORD00561,RS022,Ethnic Wear,Ethnic Wear Item 429,1,427.0,2026-05-10,May,Delivered
+ORD00562,RS013,Western Wear,Western Wear Item 352,2,382.55,2026-05-19,May,Returned
+ORD00563,RS023,Ethnic Wear,Ethnic Wear Item 368,2,987.1,2026-05-30,May,Cancelled
+ORD00564,RS017,Ethnic Wear,Ethnic Wear Item 100,2,585.99,2026-05-18,May,Delivered
+ORD00565,RS016,Ethnic Wear,Ethnic Wear Item 970,3,683.52,2026-05-25,May,Cancelled
+ORD00566,RS022,Beauty & Personal Care,Beauty & Personal Care Item 315,1,574.38,2026-05-08,May,Returned
+ORD00567,RS014,Home & Kitchen,Home & Kitchen Item 121,1,795.37,2026-05-10,May,Delivered
+ORD00568,RS016,Ethnic Wear,Ethnic Wear Item 911,2,1096.84,2026-05-20,May,Delivered
+ORD00569,RS007,Western Wear,Western Wear Item 892,1,1173.12,2026-05-10,May,Delivered
+ORD00570,RS005,Ethnic Wear,Ethnic Wear Item 469,1,619.33,2026-05-19,May,Cancelled
+ORD00571,RS005,Ethnic Wear,Ethnic Wear Item 182,2,1186.24,2026-05-16,May,Delivered
+ORD00572,RS011,Kids Wear,Kids Wear Item 591,1,252.06,2026-05-25,May,Returned
+ORD00573,RS006,Western Wear,Western Wear Item 440,1,1074.39,2026-05-20,May,Delivered
+ORD00574,RS013,Western Wear,Western Wear Item 383,1,802.53,2026-05-18,May,Delivered
+ORD00575,RS001,Beauty & Personal Care,Beauty & Personal Care Item 642,1,640.95,2026-05-01,May,Delivered
+ORD00576,RS008,Ethnic Wear,Ethnic Wear Item 603,1,1363.68,2026-05-04,May,Delivered
+ORD00577,RS010,Ethnic Wear,Ethnic Wear Item 533,1,1305.23,2026-05-10,May,Delivered
+ORD00578,RS020,Western Wear,Western Wear Item 924,2,760.98,2026-05-05,May,Delivered
+ORD00579,RS016,Western Wear,Western Wear Item 20,4,528.0,2026-05-30,May,Returned
+ORD00580,RS008,Ethnic Wear,Ethnic Wear Item 174,1,1482.37,2026-05-01,May,Delivered
+ORD00581,RS004,Western Wear,Western Wear Item 790,1,967.01,2026-05-29,May,Delivered
+ORD00582,RS018,Kids Wear,Kids Wear Item 21,1,635.05,2026-05-04,May,Delivered
+ORD00583,RS002,Kids Wear,Kids Wear Item 719,1,519.9,2026-05-18,May,Delivered
+ORD00584,RS005,Ethnic Wear,Ethnic Wear Item 679,1,1153.31,2026-05-14,May,Delivered
+ORD00585,RS017,Ethnic Wear,Ethnic Wear Item 524,1,1065.2,2026-05-27,May,Cancelled
+ORD00586,RS020,Ethnic Wear,Ethnic Wear Item 797,1,524.41,2026-05-07,May,Delivered
+ORD00587,RS009,Home & Kitchen,Home & Kitchen Item 41,1,1950.62,2026-05-14,May,Delivered
+ORD00588,RS018,Western Wear,Western Wear Item 14,4,546.31,2026-05-11,May,Delivered
+ORD00589,RS022,Ethnic Wear,Ethnic Wear Item 93,2,520.47,2026-05-16,May,Delivered
+ORD00590,RS017,Ethnic Wear,Ethnic Wear Item 304,3,1194.93,2026-05-21,May,Delivered
+ORD00591,RS009,Western Wear,Western Wear Item 369,1,443.82,2026-05-02,May,Cancelled
+ORD00592,RS022,Ethnic Wear,Ethnic Wear Item 10,1,1211.39,2026-05-25,May,Cancelled
+ORD00593,RS005,Kids Wear,Kids Wear Item 275,1,359.83,2026-05-15,May,Pending
+ORD00594,RS003,Western Wear,Western Wear Item 279,1,674.59,2026-05-13,May,Pending
+ORD00595,RS013,Kids Wear,Kids Wear Item 116,1,559.86,2026-05-29,May,Returned
+ORD00596,RS005,Kids Wear,Kids Wear Item 934,4,287.12,2026-05-06,May,Delivered
+ORD00597,RS019,Western Wear,Western Wear Item 368,1,889.5,2026-05-20,May,Delivered
+ORD00598,RS020,Ethnic Wear,Ethnic Wear Item 943,3,1151.91,2026-05-29,May,Delivered
+ORD00599,RS016,Ethnic Wear,Ethnic Wear Item 13,1,851.41,2026-05-09,May,Delivered
+ORD00600,RS023,Beauty & Personal Care,Beauty & Personal Care Item 979,2,490.13,2026-05-24,May,Delivered
+ORD00601,RS022,Beauty & Personal Care,Beauty & Personal Care Item 678,2,486.41,2026-06-20,June,Delivered
+ORD00602,RS008,Kids Wear,Kids Wear Item 572,2,680.41,2026-06-05,June,Returned
+ORD00603,RS020,Ethnic Wear,Ethnic Wear Item 508,1,1106.74,2026-06-28,June,Delivered
+ORD00604,RS006,Ethnic Wear,Ethnic Wear Item 229,1,939.81,2026-06-09,June,Delivered
+ORD00605,RS018,Home & Kitchen,Home & Kitchen Item 587,1,924.9,2026-06-15,June,Delivered
+ORD00606,RS015,Ethnic Wear,Ethnic Wear Item 19,1,947.3,2026-06-16,June,Returned
+ORD00607,RS004,Kids Wear,Kids Wear Item 619,1,272.29,2026-06-27,June,Delivered
+ORD00608,RS020,Home & Kitchen,Home & Kitchen Item 974,2,1801.2,2026-06-21,June,Delivered
+ORD00609,RS011,Western Wear,Western Wear Item 786,1,400.56,2026-06-15,June,Delivered
+ORD00610,RS020,Kids Wear,Kids Wear Item 778,1,714.83,2026-06-15,June,Delivered
+ORD00611,RS022,Western Wear,Western Wear Item 535,3,673.29,2026-06-26,June,Delivered
+ORD00612,RS012,Home & Kitchen,Home & Kitchen Item 761,1,281.4,2026-06-05,June,Returned
+ORD00613,RS014,Ethnic Wear,Ethnic Wear Item 221,1,1070.94,2026-06-30,June,Cancelled
+ORD00614,RS015,Beauty & Personal Care,Beauty & Personal Care Item 949,1,272.88,2026-06-25,June,Delivered
+ORD00615,RS021,Beauty & Personal Care,Beauty & Personal Care Item 604,2,531.73,2026-06-15,June,Delivered
+ORD00616,RS017,Ethnic Wear,Ethnic Wear Item 444,1,947.71,2026-06-02,June,Delivered
+ORD00617,RS019,Kids Wear,Kids Wear Item 178,3,579.42,2026-06-06,June,Delivered
+ORD00618,RS005,Ethnic Wear,Ethnic Wear Item 394,2,1122.27,2026-06-11,June,Delivered
+ORD00619,RS014,Beauty & Personal Care,Beauty & Personal Care Item 352,2,744.34,2026-06-09,June,Delivered
+ORD00620,RS010,Kids Wear,Kids Wear Item 525,1,335.69,2026-06-23,June,Cancelled
+ORD00621,RS010,Beauty & Personal Care,Beauty & Personal Care Item 648,1,505.07,2026-06-24,June,Cancelled
+ORD00622,RS007,Western Wear,Western Wear Item 136,1,941.96,2026-06-12,June,Cancelled
+ORD00623,RS023,Home & Kitchen,Home & Kitchen Item 728,1,1923.99,2026-06-23,June,Delivered
+ORD00624,RS004,Home & Kitchen,Home & Kitchen Item 691,2,1211.1,2026-06-22,June,Returned
+ORD00625,RS018,Western Wear,Western Wear Item 391,3,1153.94,2026-06-17,June,Delivered
+ORD00626,RS005,Ethnic Wear,Ethnic Wear Item 294,1,461.27,2026-06-26,June,Delivered
+ORD00627,RS022,Western Wear,Western Wear Item 555,2,1146.41,2026-06-10,June,Delivered
+ORD00628,RS002,Western Wear,Western Wear Item 886,2,778.96,2026-06-22,June,Returned
+ORD00629,RS008,Home & Kitchen,Home & Kitchen Item 713,1,1209.29,2026-06-26,June,Returned
+ORD00630,RS010,Home & Kitchen,Home & Kitchen Item 702,1,283.56,2026-06-14,June,Pending
+ORD00631,RS011,Beauty & Personal Care,Beauty & Personal Care Item 800,2,183.97,2026-06-07,June,Delivered
+ORD00632,RS015,Beauty & Personal Care,Beauty & Personal Care Item 603,2,741.47,2026-06-21,June,Delivered
+ORD00633,RS018,Home & Kitchen,Home & Kitchen Item 182,2,552.64,2026-06-07,June,Delivered
+ORD00634,RS022,Ethnic Wear,Ethnic Wear Item 439,2,1457.72,2026-06-04,June,Delivered
+ORD00635,RS009,Kids Wear,Kids Wear Item 478,2,333.54,2026-06-09,June,Delivered
+ORD00636,RS023,Beauty & Personal Care,Beauty & Personal Care Item 955,3,174.96,2026-06-20,June,Delivered
+ORD00637,RS021,Home & Kitchen,Home & Kitchen Item 75,1,1390.4,2026-06-19,June,Delivered
+ORD00638,RS023,Western Wear,Western Wear Item 164,1,557.96,2026-06-03,June,Returned
+ORD00639,RS014,Kids Wear,Kids Wear Item 340,1,511.22,2026-06-29,June,Delivered
+ORD00640,RS011,Western Wear,Western Wear Item 575,2,556.52,2026-06-17,June,Delivered
+ORD00641,RS021,Ethnic Wear,Ethnic Wear Item 941,1,1134.83,2026-06-29,June,Delivered
+ORD00642,RS020,Western Wear,Western Wear Item 968,3,386.88,2026-06-13,June,Cancelled
+ORD00643,RS004,Western Wear,Western Wear Item 789,1,862.23,2026-06-30,June,Delivered
+ORD00644,RS012,Kids Wear,Kids Wear Item 198,1,579.68,2026-06-10,June,Cancelled
+ORD00645,RS011,Kids Wear,Kids Wear Item 8,1,865.34,2026-06-25,June,Delivered
+ORD00646,RS021,Ethnic Wear,Ethnic Wear Item 856,2,1136.37,2026-06-28,June,Delivered
+ORD00647,RS004,Western Wear,Western Wear Item 663,3,1136.31,2026-06-24,June,Returned
+ORD00648,RS003,Home & Kitchen,Home & Kitchen Item 76,1,475.76,2026-06-11,June,Delivered
+ORD00649,RS002,Ethnic Wear,Ethnic Wear Item 265,1,676.1,2026-06-27,June,Delivered
+ORD00650,RS014,Western Wear,Western Wear Item 122,1,947.71,2026-06-01,June,Delivered
+ORD00651,RS018,Ethnic Wear,Ethnic Wear Item 718,1,1191.31,2026-06-24,June,Delivered
+ORD00652,RS003,Western Wear,Western Wear Item 89,1,826.7,2026-06-22,June,Delivered
+ORD00653,RS010,Home & Kitchen,Home & Kitchen Item 161,1,986.82,2026-06-22,June,Delivered
+ORD00654,RS018,Western Wear,Western Wear Item 984,2,1058.42,2026-06-28,June,Delivered
+ORD00655,RS021,Ethnic Wear,Ethnic Wear Item 664,3,1144.02,2026-06-26,June,Cancelled
+ORD00656,RS012,Beauty & Personal Care,Beauty & Personal Care Item 6,3,156.25,2026-06-05,June,Delivered
+ORD00657,RS019,Kids Wear,Kids Wear Item 760,4,598.15,2026-06-10,June,Delivered
+ORD00658,RS012,Western Wear,Western Wear Item 227,3,1209.35,2026-06-05,June,Delivered
+ORD00659,RS020,Beauty & Personal Care,Beauty & Personal Care Item 56,1,275.31,2026-06-26,June,Delivered
+ORD00660,RS018,Kids Wear,Kids Wear Item 203,1,606.28,2026-06-03,June,Delivered
+ORD00661,RS019,Kids Wear,Kids Wear Item 292,1,464.05,2026-06-21,June,Delivered
+ORD00662,RS020,Ethnic Wear,Ethnic Wear Item 314,1,611.85,2026-06-11,June,Delivered
+ORD00663,RS023,Kids Wear,Kids Wear Item 173,1,616.61,2026-06-11,June,Pending
+ORD00664,RS001,Western Wear,Western Wear Item 861,2,1095.38,2026-06-21,June,Delivered
+ORD00665,RS012,Ethnic Wear,Ethnic Wear Item 794,3,1205.27,2026-06-15,June,Delivered
+ORD00666,RS010,Kids Wear,Kids Wear Item 880,2,319.74,2026-06-03,June,Returned
+ORD00667,RS005,Beauty & Personal Care,Beauty & Personal Care Item 78,2,276.68,2026-06-21,June,Delivered
+ORD00668,RS001,Beauty & Personal Care,Beauty & Personal Care Item 605,3,559.56,2026-06-19,June,Delivered
+ORD00669,RS007,Beauty & Personal Care,Beauty & Personal Care Item 794,1,507.54,2026-06-18,June,Delivered
+ORD00670,RS005,Western Wear,Western Wear Item 138,2,561.14,2026-06-24,June,Cancelled
+ORD00671,RS015,Kids Wear,Kids Wear Item 869,1,307.86,2026-06-01,June,Delivered
+ORD00672,RS020,Home & Kitchen,Home & Kitchen Item 972,1,1561.97,2026-06-06,June,Delivered
+ORD00673,RS019,Home & Kitchen,Home & Kitchen Item 42,2,1940.92,2026-06-16,June,Cancelled
+ORD00674,RS008,Home & Kitchen,Home & Kitchen Item 212,1,616.15,2026-06-08,June,Delivered
+ORD00675,RS017,Beauty & Personal Care,Beauty & Personal Care Item 41,1,383.81,2026-06-15,June,Cancelled
+ORD00676,RS021,Western Wear,Western Wear Item 760,1,1017.55,2026-06-27,June,Delivered
+ORD00677,RS009,Kids Wear,Kids Wear Item 670,1,619.6,2026-06-13,June,Delivered
+ORD00678,RS003,Kids Wear,Kids Wear Item 837,3,493.61,2026-06-17,June,Delivered
+ORD00679,RS012,Kids Wear,Kids Wear Item 451,2,562.37,2026-06-17,June,Cancelled
+ORD00680,RS006,Western Wear,Western Wear Item 371,1,837.81,2026-06-05,June,Delivered
+ORD00681,RS020,Home & Kitchen,Home & Kitchen Item 117,1,411.99,2026-06-26,June,Delivered
+ORD00682,RS016,Home & Kitchen,Home & Kitchen Item 23,2,1061.24,2026-06-21,June,Returned
+ORD00683,RS008,Ethnic Wear,Ethnic Wear Item 913,1,1029.84,2026-06-21,June,Delivered
+ORD00684,RS019,Ethnic Wear,Ethnic Wear Item 614,3,581.98,2026-06-17,June,Pending
+ORD00685,RS019,Home & Kitchen,Home & Kitchen Item 88,2,1780.32,2026-06-27,June,Delivered
+ORD00686,RS007,Kids Wear,Kids Wear Item 421,3,894.3,2026-06-06,June,Delivered
+ORD00687,RS020,Ethnic Wear,Ethnic Wear Item 271,2,1039.91,2026-06-20,June,Delivered
+ORD00688,RS006,Home & Kitchen,Home & Kitchen Item 388,1,815.81,2026-06-19,June,Delivered
+ORD00689,RS013,Ethnic Wear,Ethnic Wear Item 430,1,417.22,2026-06-30,June,Delivered
+ORD00690,RS005,Home & Kitchen,Home & Kitchen Item 803,3,518.36,2026-06-20,June,Delivered
+ORD00691,RS018,Kids Wear,Kids Wear Item 553,1,325.39,2026-06-05,June,Cancelled
+ORD00692,RS001,Beauty & Personal Care,Beauty & Personal Care Item 896,2,652.67,2026-06-17,June,Delivered
+ORD00693,RS002,Home & Kitchen,Home & Kitchen Item 391,4,971.12,2026-06-16,June,Returned
+ORD00694,RS012,Kids Wear,Kids Wear Item 436,2,730.91,2026-06-23,June,Delivered
+ORD00695,RS005,Western Wear,Western Wear Item 898,3,1076.57,2026-06-03,June,Delivered
+ORD00696,RS018,Kids Wear,Kids Wear Item 536,2,371.86,2026-06-26,June,Delivered
+ORD00697,RS004,Kids Wear,Kids Wear Item 371,1,492.77,2026-06-26,June,Delivered
+ORD00698,RS004,Ethnic Wear,Ethnic Wear Item 579,1,1115.73,2026-06-28,June,Delivered
+ORD00699,RS012,Home & Kitchen,Home & Kitchen Item 803,1,1984.24,2026-06-07,June,Delivered
+ORD00700,RS018,Kids Wear,Kids Wear Item 592,2,489.64,2026-06-09,June,Pending
+ORD00701,RS012,Home & Kitchen,Home & Kitchen Item 766,1,915.63,2026-06-28,June,Delivered
+ORD00702,RS008,Kids Wear,Kids Wear Item 805,1,703.55,2026-06-07,June,Delivered
+ORD00703,RS011,Home & Kitchen,Home & Kitchen Item 988,2,1304.25,2026-06-02,June,Delivered
+ORD00704,RS021,Ethnic Wear,Ethnic Wear Item 91,1,499.2,2026-06-30,June,Delivered
+ORD00705,RS003,Western Wear,Western Wear Item 411,2,701.29,2026-06-24,June,Delivered
+ORD00706,RS020,Home & Kitchen,Home & Kitchen Item 840,4,714.64,2026-06-02,June,Cancelled
+ORD00707,RS006,Home & Kitchen,Home & Kitchen Item 531,1,989.15,2026-06-22,June,Cancelled
+ORD00708,RS010,Western Wear,Western Wear Item 174,1,1093.76,2026-06-23,June,Delivered
+ORD00709,RS022,Ethnic Wear,Ethnic Wear Item 283,1,662.18,2026-06-06,June,Delivered
+ORD00710,RS013,Western Wear,Western Wear Item 721,2,724.39,2026-06-17,June,Delivered
+ORD00711,RS003,Beauty & Personal Care,Beauty & Personal Care Item 357,2,506.24,2026-06-18,June,Cancelled
+ORD00712,RS012,Beauty & Personal Care,Beauty & Personal Care Item 414,2,328.73,2026-06-07,June,Delivered
+ORD00713,RS019,Ethnic Wear,Ethnic Wear Item 302,1,591.54,2026-06-18,June,Delivered
+ORD00714,RS011,Beauty & Personal Care,Beauty & Personal Care Item 813,4,670.91,2026-06-29,June,Delivered
+ORD00715,RS019,Western Wear,Western Wear Item 776,1,769.63,2026-06-16,June,Returned
+ORD00716,RS011,Beauty & Personal Care,Beauty & Personal Care Item 494,1,447.25,2026-06-19,June,Cancelled
+ORD00717,RS004,Western Wear,Western Wear Item 236,2,712.54,2026-06-08,June,Delivered
+ORD00718,RS011,Kids Wear,Kids Wear Item 255,1,478.51,2026-06-23,June,Returned
+ORD00719,RS010,Ethnic Wear,Ethnic Wear Item 183,3,1140.07,2026-06-03,June,Delivered
+ORD00720,RS016,Western Wear,Western Wear Item 700,2,556.64,2026-06-06,June,Cancelled
+ORD00721,RS007,Kids Wear,Kids Wear Item 235,2,378.78,2026-06-28,June,Delivered
+ORD00722,RS007,Beauty & Personal Care,Beauty & Personal Care Item 943,1,692.62,2026-06-25,June,Delivered
+ORD00723,RS003,Home & Kitchen,Home & Kitchen Item 981,2,1393.16,2026-06-25,June,Cancelled
+ORD00724,RS002,Beauty & Personal Care,Beauty & Personal Care Item 919,1,390.28,2026-06-29,June,Pending
+ORD00725,RS019,Beauty & Personal Care,Beauty & Personal Care Item 408,4,468.02,2026-06-30,June,Delivered
+ORD00726,RS008,Home & Kitchen,Home & Kitchen Item 554,1,429.84,2026-06-14,June,Delivered
+ORD00727,RS002,Kids Wear,Kids Wear Item 124,2,504.92,2026-06-06,June,Delivered
+ORD00728,RS023,Kids Wear,Kids Wear Item 595,1,454.17,2026-06-22,June,Delivered
+ORD00729,RS004,Western Wear,Western Wear Item 276,1,931.14,2026-06-18,June,Delivered
+ORD00730,RS016,Beauty & Personal Care,Beauty & Personal Care Item 718,1,372.01,2026-06-14,June,Delivered
+ORD00731,RS012,Western Wear,Western Wear Item 590,1,729.56,2026-06-19,June,Delivered
+ORD00732,RS022,Western Wear,Western Wear Item 877,1,443.88,2026-06-08,June,Delivered
+ORD00733,RS013,Western Wear,Western Wear Item 181,2,1109.04,2026-06-16,June,Returned
+ORD00734,RS014,Kids Wear,Kids Wear Item 324,3,896.12,2026-06-17,June,Delivered
+ORD00735,RS016,Western Wear,Western Wear Item 168,2,883.03,2026-06-13,June,Delivered
+ORD00736,RS002,Western Wear,Western Wear Item 343,3,590.58,2026-06-04,June,Delivered
+ORD00737,RS009,Western Wear,Western Wear Item 422,4,881.33,2026-06-09,June,Delivered
+ORD00738,RS004,Western Wear,Western Wear Item 665,2,994.61,2026-06-19,June,Delivered
+ORD00739,RS018,Ethnic Wear,Ethnic Wear Item 794,1,1257.34,2026-06-22,June,Delivered
+ORD00740,RS015,Beauty & Personal Care,Beauty & Personal Care Item 890,1,396.7,2026-06-21,June,Pending
+ORD00741,RS006,Home & Kitchen,Home & Kitchen Item 870,1,1870.42,2026-06-20,June,Delivered
+ORD00742,RS003,Ethnic Wear,Ethnic Wear Item 274,1,776.99,2026-06-21,June,Delivered
+ORD00743,RS020,Home & Kitchen,Home & Kitchen Item 766,1,687.25,2026-06-28,June,Cancelled
+ORD00744,RS019,Kids Wear,Kids Wear Item 746,1,541.69,2026-06-28,June,Delivered
+ORD00745,RS008,Home & Kitchen,Home & Kitchen Item 407,2,1891.79,2026-06-03,June,Delivered
+ORD00746,RS004,Ethnic Wear,Ethnic Wear Item 407,1,1429.47,2026-06-02,June,Delivered
+ORD00747,RS017,Home & Kitchen,Home & Kitchen Item 954,1,348.85,2026-06-05,June,Delivered
+ORD00748,RS013,Western Wear,Western Wear Item 540,1,584.03,2026-06-21,June,Delivered
+ORD00749,RS006,Ethnic Wear,Ethnic Wear Item 479,3,1128.9,2026-06-11,June,Cancelled
+ORD00750,RS018,Beauty & Personal Care,Beauty & Personal Care Item 606,1,505.55,2026-06-23,June,Delivered
+ORD00751,RS020,Kids Wear,Kids Wear Item 655,3,735.79,2026-06-14,June,Delivered
+ORD00752,RS018,Western Wear,Western Wear Item 316,1,678.81,2026-06-26,June,Delivered
+ORD00753,RS012,Kids Wear,Kids Wear Item 869,1,350.22,2026-06-17,June,Returned
+ORD00754,RS005,Western Wear,Western Wear Item 774,1,794.74,2026-06-30,June,Delivered
+ORD00755,RS016,Western Wear,Western Wear Item 8,2,1076.58,2026-06-20,June,Delivered
+ORD00756,RS018,Western Wear,Western Wear Item 733,2,740.15,2026-06-13,June,Delivered
+ORD00757,RS021,Western Wear,Western Wear Item 530,1,708.44,2026-06-14,June,Delivered
+ORD00758,RS020,Home & Kitchen,Home & Kitchen Item 276,1,1431.35,2026-06-24,June,Delivered
+ORD00759,RS014,Western Wear,Western Wear Item 633,1,414.04,2026-06-04,June,Delivered
+ORD00760,RS015,Western Wear,Western Wear Item 993,1,940.62,2026-06-01,June,Delivered
+ORD00761,RS018,Ethnic Wear,Ethnic Wear Item 745,1,1468.57,2026-06-05,June,Returned
+ORD00762,RS001,Western Wear,Western Wear Item 805,1,492.15,2026-06-11,June,Delivered
+ORD00763,RS016,Beauty & Personal Care,Beauty & Personal Care Item 769,2,450.39,2026-06-11,June,Delivered
+ORD00764,RS005,Ethnic Wear,Ethnic Wear Item 918,1,1252.22,2026-06-16,June,Delivered
+ORD00765,RS009,Home & Kitchen,Home & Kitchen Item 395,1,1689.85,2026-06-25,June,Returned
+ORD00766,RS015,Western Wear,Western Wear Item 534,1,1293.81,2026-06-24,June,Returned
+ORD00767,RS022,Beauty & Personal Care,Beauty & Personal Care Item 163,2,456.34,2026-06-10,June,Cancelled
+ORD00768,RS021,Home & Kitchen,Home & Kitchen Item 654,1,1539.5,2026-06-04,June,Delivered
+ORD00769,RS010,Western Wear,Western Wear Item 242,3,1192.14,2026-06-07,June,Pending
+ORD00770,RS021,Kids Wear,Kids Wear Item 809,2,258.79,2026-06-19,June,Delivered
+ORD00771,RS008,Ethnic Wear,Ethnic Wear Item 159,2,445.19,2026-06-16,June,Delivered
+ORD00772,RS012,Home & Kitchen,Home & Kitchen Item 954,1,646.7,2026-06-22,June,Delivered
+ORD00773,RS021,Ethnic Wear,Ethnic Wear Item 129,1,790.07,2026-06-18,June,Returned
+ORD00774,RS016,Western Wear,Western Wear Item 914,2,1281.59,2026-06-25,June,Delivered
+ORD00775,RS015,Home & Kitchen,Home & Kitchen Item 921,1,237.44,2026-06-24,June,Delivered
+ORD00776,RS002,Kids Wear,Kids Wear Item 581,1,533.38,2026-06-23,June,Delivered
+ORD00777,RS006,Kids Wear,Kids Wear Item 937,1,459.39,2026-06-28,June,Returned
+ORD00778,RS018,Ethnic Wear,Ethnic Wear Item 376,1,983.25,2026-06-27,June,Delivered
+ORD00779,RS015,Ethnic Wear,Ethnic Wear Item 635,1,1100.83,2026-06-06,June,Cancelled
+ORD00780,RS012,Home & Kitchen,Home & Kitchen Item 839,2,628.82,2026-06-22,June,Pending
+ORD00781,RS013,Western Wear,Western Wear Item 331,2,998.06,2026-06-05,June,Delivered
+ORD00782,RS014,Home & Kitchen,Home & Kitchen Item 961,1,397.84,2026-06-03,June,Delivered
+ORD00783,RS005,Ethnic Wear,Ethnic Wear Item 585,1,433.4,2026-06-07,June,Delivered
+ORD00784,RS021,Beauty & Personal Care,Beauty & Personal Care Item 51,1,576.65,2026-06-23,June,Delivered
+ORD00785,RS012,Western Wear,Western Wear Item 504,1,1030.95,2026-06-30,June,Delivered
+ORD00786,RS003,Kids Wear,Kids Wear Item 426,1,664.3,2026-06-24,June,Cancelled
+ORD00787,RS012,Home & Kitchen,Home & Kitchen Item 73,2,303.94,2026-06-17,June,Delivered
+ORD00788,RS010,Ethnic Wear,Ethnic Wear Item 545,1,636.49,2026-06-04,June,Returned
+ORD00789,RS013,Western Wear,Western Wear Item 572,1,848.88,2026-06-21,June,Cancelled
+ORD00790,RS018,Kids Wear,Kids Wear Item 720,2,317.58,2026-06-12,June,Delivered
+ORD00791,RS022,Kids Wear,Kids Wear Item 346,2,316.67,2026-06-18,June,Delivered
+ORD00792,RS022,Ethnic Wear,Ethnic Wear Item 564,1,1497.28,2026-06-12,June,Cancelled
+ORD00793,RS011,Beauty & Personal Care,Beauty & Personal Care Item 624,2,417.02,2026-06-27,June,Returned
+ORD00794,RS008,Kids Wear,Kids Wear Item 369,2,388.05,2026-06-30,June,Returned
+ORD00795,RS015,Kids Wear,Kids Wear Item 531,2,507.11,2026-06-10,June,Delivered
+ORD00796,RS005,Beauty & Personal Care,Beauty & Personal Care Item 323,1,345.2,2026-06-08,June,Delivered
+ORD00797,RS001,Home & Kitchen,Home & Kitchen Item 570,3,1897.03,2026-06-30,June,Delivered
+ORD00798,RS019,Beauty & Personal Care,Beauty & Personal Care Item 272,1,249.56,2026-06-12,June,Delivered
+ORD00799,RS012,Beauty & Personal Care,Beauty & Personal Care Item 410,1,311.41,2026-06-10,June,Delivered
+ORD00800,RS019,Beauty & Personal Care,Beauty & Personal Care Item 500,2,626.27,2026-06-26,June,Delivered
+ORD00801,RS023,Home & Kitchen,Home & Kitchen Item 749,1,1674.13,2026-06-21,June,Delivered
+ORD00802,RS019,Western Wear,Western Wear Item 837,3,1090.12,2026-06-11,June,Delivered
+ORD00803,RS014,Kids Wear,Kids Wear Item 870,3,813.09,2026-06-08,June,Returned
+ORD00804,RS020,Beauty & Personal Care,Beauty & Personal Care Item 43,2,561.03,2026-06-02,June,Delivered
+ORD00805,RS011,Kids Wear,Kids Wear Item 690,1,346.23,2026-06-08,June,Delivered
+ORD00806,RS013,Beauty & Personal Care,Beauty & Personal Care Item 297,2,638.35,2026-06-03,June,Delivered
+ORD00807,RS013,Ethnic Wear,Ethnic Wear Item 409,1,768.78,2026-06-24,June,Delivered
+ORD00808,RS009,Ethnic Wear,Ethnic Wear Item 493,2,951.01,2026-06-05,June,Returned
+ORD00809,RS018,Western Wear,Western Wear Item 754,2,724.55,2026-06-18,June,Delivered
+ORD00810,RS017,Western Wear,Western Wear Item 590,2,417.06,2026-06-11,June,Delivered
+ORD00811,RS003,Ethnic Wear,Ethnic Wear Item 609,1,853.94,2026-06-07,June,Delivered
+ORD00812,RS021,Ethnic Wear,Ethnic Wear Item 823,4,734.3,2026-06-20,June,Returned
+ORD00813,RS015,Home & Kitchen,Home & Kitchen Item 383,3,991.83,2026-06-08,June,Delivered
+ORD00814,RS005,Home & Kitchen,Home & Kitchen Item 636,1,1733.98,2026-06-02,June,Delivered
+ORD00815,RS005,Beauty & Personal Care,Beauty & Personal Care Item 313,1,682.09,2026-06-23,June,Returned
+ORD00816,RS015,Kids Wear,Kids Wear Item 536,2,464.72,2026-06-07,June,Delivered
+ORD00817,RS009,Kids Wear,Kids Wear Item 19,4,653.98,2026-06-23,June,Delivered
+ORD00818,RS013,Kids Wear,Kids Wear Item 206,1,680.29,2026-06-06,June,Delivered
+ORD00819,RS023,Home & Kitchen,Home & Kitchen Item 677,2,294.55,2026-06-01,June,Delivered
+ORD00820,RS009,Home & Kitchen,Home & Kitchen Item 889,1,1842.16,2026-06-04,June,Delivered
+ORD00821,RS021,Western Wear,Western Wear Item 324,1,1279.8,2026-06-23,June,Delivered
+ORD00822,RS016,Beauty & Personal Care,Beauty & Personal Care Item 575,1,494.51,2026-06-17,June,Pending
+ORD00823,RS023,Ethnic Wear,Ethnic Wear Item 763,1,671.13,2026-06-11,June,Delivered
+ORD00824,RS006,Ethnic Wear,Ethnic Wear Item 514,1,1151.74,2026-06-10,June,Delivered
+ORD00825,RS009,Home & Kitchen,Home & Kitchen Item 31,3,1325.43,2026-06-29,June,Pending
+ORD00826,RS018,Beauty & Personal Care,Beauty & Personal Care Item 90,1,295.63,2026-06-13,June,Delivered
+ORD00827,RS013,Kids Wear,Kids Wear Item 247,3,689.7,2026-06-22,June,Delivered
+ORD00828,RS019,Ethnic Wear,Ethnic Wear Item 135,3,1466.59,2026-06-11,June,Delivered
+ORD00829,RS007,Home & Kitchen,Home & Kitchen Item 317,2,1244.86,2026-06-07,June,Cancelled
+ORD00830,RS023,Home & Kitchen,Home & Kitchen Item 149,1,1141.85,2026-06-30,June,Pending
+ORD00831,RS021,Beauty & Personal Care,Beauty & Personal Care Item 737,1,745.12,2026-06-18,June,Delivered
+ORD00832,RS004,Western Wear,Western Wear Item 902,1,1146.55,2026-06-01,June,Returned
+ORD00833,RS014,Beauty & Personal Care,Beauty & Personal Care Item 956,2,346.18,2026-06-27,June,Cancelled
+ORD00834,RS009,Ethnic Wear,Ethnic Wear Item 627,1,605.73,2026-06-01,June,Returned
+ORD00835,RS020,Western Wear,Western Wear Item 27,1,887.69,2026-06-08,June,Delivered
+ORD00836,RS012,Ethnic Wear,Ethnic Wear Item 730,1,1256.81,2026-06-28,June,Delivered
+ORD00837,RS021,Western Wear,Western Wear Item 232,1,1158.52,2026-06-05,June,Delivered
+ORD00838,RS002,Kids Wear,Kids Wear Item 688,3,878.73,2026-06-14,June,Delivered
+ORD00839,RS007,Home & Kitchen,Home & Kitchen Item 502,3,318.05,2026-06-15,June,Cancelled
+ORD00840,RS023,Western Wear,Western Wear Item 623,1,783.67,2026-06-13,June,Returned
+ORD00841,RS013,Home & Kitchen,Home & Kitchen Item 538,4,908.47,2026-06-19,June,Delivered
+ORD00842,RS021,Beauty & Personal Care,Beauty & Personal Care Item 899,1,660.5,2026-06-15,June,Delivered
+ORD00843,RS002,Beauty & Personal Care,Beauty & Personal Care Item 397,1,308.72,2026-06-24,June,Delivered
+ORD00844,RS017,Home & Kitchen,Home & Kitchen Item 312,1,1931.67,2026-06-15,June,Delivered
+ORD00845,RS010,Kids Wear,Kids Wear Item 926,2,523.6,2026-06-02,June,Delivered
+ORD00846,RS005,Kids Wear,Kids Wear Item 798,1,668.97,2026-06-17,June,Delivered
+ORD00847,RS019,Beauty & Personal Care,Beauty & Personal Care Item 26,1,601.47,2026-06-14,June,Delivered
+ORD00848,RS006,Kids Wear,Kids Wear Item 257,3,831.8,2026-06-29,June,Delivered
+ORD00849,RS011,Home & Kitchen,Home & Kitchen Item 94,2,1831.89,2026-06-23,June,Returned
+ORD00850,RS004,Home & Kitchen,Home & Kitchen Item 811,1,1340.33,2026-06-23,June,Delivered
+ORD00851,RS017,Home & Kitchen,Home & Kitchen Item 935,2,486.82,2026-06-02,June,Returned
+ORD00852,RS011,Kids Wear,Kids Wear Item 788,1,677.69,2026-06-28,June,Delivered
+ORD00853,RS023,Ethnic Wear,Ethnic Wear Item 186,2,737.87,2026-06-15,June,Delivered
+ORD00854,RS004,Beauty & Personal Care,Beauty & Personal Care Item 470,1,773.28,2026-06-25,June,Delivered
+ORD00855,RS016,Beauty & Personal Care,Beauty & Personal Care Item 223,1,502.28,2026-06-29,June,Delivered
+ORD00856,RS019,Home & Kitchen,Home & Kitchen Item 251,1,1015.73,2026-06-20,June,Delivered
+ORD00857,RS018,Western Wear,Western Wear Item 152,3,946.2,2026-06-07,June,Delivered
+ORD00858,RS002,Home & Kitchen,Home & Kitchen Item 618,3,265.1,2026-06-22,June,Delivered
+ORD00859,RS010,Western Wear,Western Wear Item 292,1,432.32,2026-06-06,June,Delivered
+ORD00860,RS020,Home & Kitchen,Home & Kitchen Item 467,2,1458.72,2026-06-18,June,Delivered
+ORD00861,RS019,Western Wear,Western Wear Item 389,2,383.05,2026-06-11,June,Delivered
+ORD00862,RS003,Home & Kitchen,Home & Kitchen Item 712,1,1716.96,2026-06-16,June,Delivered
+ORD00863,RS009,Western Wear,Western Wear Item 112,1,742.07,2026-06-07,June,Delivered
+ORD00864,RS019,Home & Kitchen,Home & Kitchen Item 620,4,1331.16,2026-06-16,June,Returned
+ORD00865,RS023,Western Wear,Western Wear Item 639,1,927.4,2026-06-17,June,Delivered
+ORD00866,RS012,Beauty & Personal Care,Beauty & Personal Care Item 505,1,548.29,2026-06-24,June,Delivered
+ORD00867,RS006,Beauty & Personal Care,Beauty & Personal Care Item 25,1,300.27,2026-06-07,June,Delivered
+ORD00868,RS015,Home & Kitchen,Home & Kitchen Item 425,3,411.27,2026-06-26,June,Delivered
+ORD00869,RS014,Ethnic Wear,Ethnic Wear Item 207,3,783.62,2026-06-07,June,Delivered
+ORD00870,RS023,Western Wear,Western Wear Item 786,1,1099.69,2026-06-17,June,Delivered
+ORD00871,RS001,Ethnic Wear,Ethnic Wear Item 30,1,765.61,2026-06-19,June,Delivered
+ORD00872,RS006,Western Wear,Western Wear Item 817,3,1141.13,2026-06-16,June,Cancelled
+ORD00873,RS002,Home & Kitchen,Home & Kitchen Item 918,2,1065.69,2026-06-29,June,Cancelled
+ORD00874,RS011,Kids Wear,Kids Wear Item 307,3,778.21,2026-06-02,June,Returned
+ORD00875,RS019,Home & Kitchen,Home & Kitchen Item 340,1,766.91,2026-06-07,June,Delivered
+ORD00876,RS012,Ethnic Wear,Ethnic Wear Item 642,3,563.24,2026-06-11,June,Pending
+ORD00877,RS018,Beauty & Personal Care,Beauty & Personal Care Item 802,1,520.14,2026-06-20,June,Delivered
+ORD00878,RS010,Home & Kitchen,Home & Kitchen Item 899,1,765.1,2026-06-14,June,Delivered
+ORD00879,RS008,Western Wear,Western Wear Item 115,1,1136.98,2026-06-17,June,Delivered
+ORD00880,RS012,Home & Kitchen,Home & Kitchen Item 819,3,1599.02,2026-06-15,June,Delivered
+ORD00881,RS016,Beauty & Personal Care,Beauty & Personal Care Item 537,1,249.15,2026-06-16,June,Returned
+ORD00882,RS010,Home & Kitchen,Home & Kitchen Item 529,3,456.93,2026-06-27,June,Pending
+ORD00883,RS022,Beauty & Personal Care,Beauty & Personal Care Item 535,1,282.37,2026-06-13,June,Returned
+ORD00884,RS004,Ethnic Wear,Ethnic Wear Item 342,2,1424.57,2026-06-20,June,Cancelled
+ORD00885,RS015,Beauty & Personal Care,Beauty & Personal Care Item 592,2,216.02,2026-06-24,June,Delivered
+ORD00886,RS010,Home & Kitchen,Home & Kitchen Item 327,1,576.72,2026-06-10,June,Delivered
+ORD00887,RS015,Home & Kitchen,Home & Kitchen Item 638,1,689.78,2026-06-04,June,Delivered
+ORD00888,RS018,Kids Wear,Kids Wear Item 966,1,383.28,2026-06-11,June,Delivered
+ORD00889,RS023,Home & Kitchen,Home & Kitchen Item 347,1,1232.35,2026-06-10,June,Delivered
+ORD00890,RS018,Kids Wear,Kids Wear Item 393,1,333.55,2026-06-22,June,Delivered
+ORD00891,RS002,Ethnic Wear,Ethnic Wear Item 857,2,830.11,2026-06-29,June,Delivered
+ORD00892,RS023,Home & Kitchen,Home & Kitchen Item 777,1,1308.37,2026-06-27,June,Delivered
+ORD00893,RS022,Home & Kitchen,Home & Kitchen Item 135,3,340.38,2026-06-25,June,Delivered
+ORD00894,RS003,Home & Kitchen,Home & Kitchen Item 660,1,1854.44,2026-06-15,June,Delivered
+ORD00895,RS023,Home & Kitchen,Home & Kitchen Item 632,4,1045.98,2026-06-05,June,Cancelled
+ORD00896,RS009,Beauty & Personal Care,Beauty & Personal Care Item 882,2,403.85,2026-06-22,June,Delivered
+ORD00897,RS011,Kids Wear,Kids Wear Item 867,1,268.67,2026-06-12,June,Delivered
+ORD00898,RS006,Western Wear,Western Wear Item 838,2,680.18,2026-06-17,June,Delivered
+ORD00899,RS023,Home & Kitchen,Home & Kitchen Item 473,2,785.57,2026-06-26,June,Delivered
+ORD00900,RS013,Kids Wear,Kids Wear Item 394,1,404.07,2026-06-06,June,Pending
