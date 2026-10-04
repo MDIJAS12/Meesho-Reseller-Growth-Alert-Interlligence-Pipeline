@@ -30,15 +30,10 @@ This system operationalizes a robust, multi-stage data-to-decision pipeline:
 
 ---
 
-## 2. Zero Paid Services / API Key Confirmation
-
-> [!NOTE]
-> **Zero External Dependencies / API Keys Required**:
-> The entire pipeline runs 100% offline using standard Python 3.10+ and SQLite3. No external LLM API keys (e.g., OpenAI, Anthropic), cloud services, or paid subscriptions are required. All narrative generation is powered by deterministic template-fill logic adhering strictly to verified numerical outputs.
 
 ---
 
-## 3. Repository Structure
+## 2. Repository Structure
 
 ```text
 .
@@ -76,7 +71,7 @@ This system operationalizes a robust, multi-stage data-to-decision pipeline:
 
 ---
 
-## 4. How to Run Each Stage in Sequential Order
+## 3. How to Run Each Stage in Sequential Order
 
 ### Step 1: Regenerate Dataset (Part 1.1)
 Generates the synthetic reseller and order transaction records seeded with `random.Random(42)`.
@@ -118,7 +113,7 @@ python3 part4_agent/mock_agent_runner.py
 
 ---
 
-## 5. Official Python Standard Library Documentation Consulted
+## 4. Official Python Standard Library Documentation Consulted
 
 During the design and implementation of this pipeline, the following official Python standard library documentation was referenced:
 - [`csv`](https://docs.python.org/3/library/csv.html) — `csv.DictReader`, `csv.DictWriter`, and line number tracking via `reader.line_num`.
