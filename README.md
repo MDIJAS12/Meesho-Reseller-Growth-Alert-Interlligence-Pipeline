@@ -37,7 +37,7 @@ This system operationalizes a robust, multi-stage data-to-decision pipeline:
 
 ```text
 .
-├── README.md                              # Pipeline documentation and execution guide
+├── README.md                             # Pipeline documentation and execution guide
 ├── data/
 │   ├── generate_dataset.py               # Deterministic seeded synthetic data generator
 │   ├── resellers.csv                     # Reseller master dataset (24 rows)
