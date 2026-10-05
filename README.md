@@ -9,22 +9,22 @@ An end-to-end, production-grade reseller growth intelligence and alerting pipeli
 This system operationalizes a robust, multi-stage data-to-decision pipeline:
 
 ### Part 1: SQL Business Query Engine
-- *Pattern: "Compute Ground Truth First, Then Hand Off"*.
+- *Workflow: "Measure the Business in SQL Before Any Decision is Made"*.
 - All financial aggregates, order metrics, and business dimensions are computed directly against the SQLite persistence layer (`meesho_reseller.db`) using pure SQL.
 - Downstream logic consumes validated numeric outputs rather than raw transactional data.
 
 ### Part 2: Input Guardrails & Growth Engine
-- *Pattern: "Deterministic Validation & Structured Rule Evaluation"*.
+- *Workflow: "Validate Inputs, Classify Change, and Enforce Guardrails"*.
 - Numerical changes are converted into explicit rules such as MoM %, tri-state threshold classification, and exact boundary escalation.
 - Raw inputs pass strict type and schema checks before they are ingested by the decision engine.
 
 ### Part 3: Narrative Reporting
-- *Pattern: "Structured Prompt Packs & Privacy-Safe Reporting"*.
+- *Workflow: "Turn Verified Metrics into Safe, Structured Business Narratives"*.
 - Verified outputs are transformed into templated Context → Insight → Implication narratives with zero hallucinated figures.
 - Reseller-sensitive information is masked so stakeholder-facing updates remain privacy-safe and auditable.
 
 ### Part 4: Agentic Workflow & Mock Runner
-- *Pattern: "Intake → Validate → Compute → Rank → Draft & Hold"*.
+- *Workflow: "Intake → Validate → Compute → Rank → Draft and Hold for Review"*.
 - Orchestrates Parts 1, 2, and 3 into an automated, guarded workflow.
 - Incorporates an anti-flooding notification cap (top 3 alerts), isolates suppressed or escalated categories, and enforces a human-in-the-loop review gate before dispatch.
 
